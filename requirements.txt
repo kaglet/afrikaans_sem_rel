@@ -9,3 +9,4 @@ scikit-learn
 transformers
 interpret
 evaluate
+deep_translator
