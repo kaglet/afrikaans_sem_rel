@@ -1,0 +1,255 @@
+(base) PS C:\Users\User\OneDrive\Desktop\Honours\School\COS760\afrikaans_sem_rel> python -u "c:\Users\User\OneDrive\Desktop\Honours\School\COS760\afrikaans_sem_rel\english_finetuning_checkpoint.py"
+❌ Failed on chunk 7: ('Connection aborted.', RemoteDis
+connected('Remote end closed connection without response'))
+✅ Translated chunk 8
+✅ Translated chunk 9
+✅ Translated chunk 10
+✅ Translated chunk 11
+✅ Translated chunk 12
+✅ Translated chunk 13
+✅ Translated chunk 14
+✅ Translated chunk 15
+✅ Translated chunk 16
+✅ Translated chunk 17
+✅ Translated chunk 18
+✅ Translated chunk 19
+✅ Translated chunk 20
+✅ Translated chunk 21
+✅ Translated chunk 22
+✅ Translated chunk 23
+✅ Translated chunk 24
+✅ Translated chunk 25
+✅ Translated chunk 26
+✅ Translated chunk 27
+✅ Translated chunk 28
+✅ Translated chunk 29
+✅ Translated chunk 30
+✅ Translated chunk 31
+❌ Failed on chunk 32: ('Connection aborted.', RemoteDi
+sconnected('Remote end closed connection without response'))
+✅ Translated chunk 33
+✅ Translated chunk 34
+✅ Translated chunk 35
+✅ Translated chunk 36
+✅ Translated chunk 37
+✅ Translated chunk 38
+✅ Translated chunk 39
+✅ Translated chunk 40
+✅ Translated chunk 41
+✅ Translated chunk 42
+✅ Translated chunk 43
+✅ Translated chunk 44
+✅ Translated chunk 45
+✅ Translated chunk 46
+✅ Translated chunk 47
+✅ Translated chunk 48
+✅ Translated chunk 49
+✅ Translated chunk 50
+✅ Translated chunk 51
+❌ Failed on chunk 52: ('Connection aborted.', RemoteDi
+sconnected('Remote end closed connection without response'))
+✅ Translated chunk 53
+✅ Translated chunk 54
+✅ Translated chunk 55
+✅ Translated chunk 7
+✅ Translated chunk 8
+✅ Translated chunk 9
+✅ Translated chunk 10
+✅ Translated chunk 11
+✅ Translated chunk 12
+✅ Translated chunk 13
+✅ Translated chunk 14
+✅ Translated chunk 15
+✅ Translated chunk 16
+✅ Translated chunk 17
+✅ Translated chunk 18
+✅ Translated chunk 19
+❌ Failed on chunk 20: ('Connection aborted.', RemoteDi
+sconnected('Remote end closed connection without response'))
+✅ Translated chunk 21
+✅ Translated chunk 22
+❌ Failed on chunk 23: ('Connection aborted.', RemoteDi
+sconnected('Remote end closed connection without response'))
+✅ Translated chunk 24
+✅ Translated chunk 25
+✅ Translated chunk 26
+✅ Translated chunk 27
+❌ Failed on chunk 28: ('Connection aborted.', Connecti
+onAbortedError(10053, 'An established connection was aborted by the software in your host machine', None, 10053, None))
+❌ Failed on chunk 29: HTTPSConnectionPool(host='transl
+ate.google.com', port=443): Max retries exceeded with 
+url: /m?tl=af&sl=en&q=Raahosh+is+disconcerted%3A+why+this+little+human+female+is+not+afraid%3F (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B79DFC5520>: Failed to resolve 'translate.google.com' ([Errno 11001] getaddrinfo failed)"))
+❌ Failed on chunk 30: HTTPSConnectionPool(host='transl
+ate.google.com', port=443): Max retries exceeded with 
+url: /m?tl=af&sl=en&q=Hillary+is+killing+it+so+far+on+the+trail.+She%27s+finally+showing+her+personal+side+and+I+think+it+will+benefit+her+profoundly. (Caused by 
+NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B79DFC7860>: Failed to resolve 'translate.google.com' ([Errno 11001] getaddrinfo failed)"))
+❌ Failed on chunk 31: HTTPSConnectionPool(host='transl
+ate.google.com', port=443): Max retries exceeded with 
+url: /m?tl=af&sl=en&q=After+4+books+of+Briec+%26+Talaith+bantering%2Ffighting%2C+it+is+getting+annoying. (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B79DFE7230>: Failed to resolve 'translate.google.com' ([Errno 11001] getaddrinfo failed)"))
+❌ Failed on chunk 32: HTTPSConnectionPool(host='transl
+ate.google.com', port=443): Max retries exceeded with 
+url: /m?tl=af&sl=en&q=The+ribbon+was+a+faded+two-tone%2C+red+over+black. (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B79DFE7FB0>: Failed to resolve 'translate.google.com' ([Errno 11001] getaddrinfo failed)"))
+❌ Failed on chunk 33: HTTPSConnectionPool(host='transl
+ate.google.com', port=443): Max retries exceeded with 
+url: /m?tl=af&sl=en&q=Braith+really+did+grow+as+a+character%2C+coming+full+circle+and+all.. (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B79DB164B0>: Failed to resolve 'translate.google.com' ([Errno 11001] getaddrinfo failed)")) 
+❌ Failed on chunk 34: HTTPSConnectionPool(host='transl
+ate.google.com', port=443): Max retries exceeded with 
+url: /m?tl=af&sl=en&q=S-servis+bke%2C+s.r.o.+vybaveni+strelnic+on+the+EDB+map (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B79DF90AD0>: Failed to resolve 'translate.google.com' ([Errno 11001] getaddrinfo failed)"))
+❌ Failed on chunk 35: HTTPSConnectionPool(host='transl
+ate.google.com', port=443): Max retries exceeded with 
+url: /m?tl=af&sl=en&q=I+like+Jalal+and+Despina%2C+but+neither+of+them+has+enough+character+development+to+really+pull+this+off. (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B79DF92300>: Failed to resolve 'translate.google.com' ([Errno 11001] getaddrinfo failed)"))
+❌ Failed on chunk 36: HTTPSConnectionPool(host='transl
+ate.google.com', port=443): Max retries exceeded with 
+url: /m?tl=af&sl=en&q=This+time+Connor+is+in+the+spotlight. (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B79DF939B0>: Failed to resolve 'translate.google.com' ([Errno 11001] getaddrinfo failed)"))
+❌ Failed on chunk 37: HTTPSConnectionPool(host='transl
+ate.google.com', port=443): Max retries exceeded with 
+url: /m?tl=af&sl=en&q=Everyone+thought+he+return+to+the+%22Other+Place%22+but+how+did+he+manage+to+return+to+Oz%2C+when+things+are+turning+into+ruins%3F (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B79DF90E90>: Failed to resolve 
+'translate.google.com' ([Errno 11001] getaddrinfo failed)"))
+❌ Failed on chunk 38: HTTPSConnectionPool(host='transl
+ate.google.com', port=443): Max retries exceeded with 
+url: /m?tl=af&sl=en&q=Lilian+Garcia+performed+%60%60+America+the+Beautiful+%27%27+at+the+beginning+of+the+event+. (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B79DFE67B0>: Failed to resolve 'translate.google.com' ([Errno 11001] getaddrinfo failed)"))
+❌ Failed on chunk 39: HTTPSConnectionPool(host='transl
+ate.google.com', port=443): Max retries exceeded with 
+url: /m?tl=af&sl=en&q=Normally+%2C+scientific+hypotheses+have+the+form+of+a+mathematical+model+. (Caused by 
+NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B79DFE62D0>: Failed to resolve 'translate.google.com' ([Errno 11001] getaddrinfo failed)"))
+❌ Failed on chunk 40: HTTPSConnectionPool(host='transl
+ate.google.com', port=443): Max retries exceeded with 
+url: /m?tl=af&sl=en&q=those+are+not+the+words+in+the+men+at+work+song. (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B79DFE6450>: Failed to resolve 'translate.google.com' ([Errno 11001] getaddrinfo failed)"))
+❌ Failed on chunk 41: HTTPSConnectionPool(host='transl
+ate.google.com', port=443): Max retries exceeded with 
+url: /m?tl=af&sl=en&q=This+category+is+for+categories+that+group+articles+by+geographical+location+. (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B79DE8CBC0>: Failed to resolve 'translate.google.com' ([Errno 11001] getaddrinfo failed)"))
+❌ Failed on chunk 42: HTTPSConnectionPool(host='transl
+ate.google.com', port=443): Max retries exceeded with 
+url: /m?tl=af&sl=en&q=The+final+aircraft+was+delivered+to+Shanghai+Airlines+on+November+28+%2C+2005+. (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B79DF30770>: Failed to resolve 'translate.google.com' ([Errno 11001] getaddrinfo failed)"))
+❌ Failed on chunk 43: HTTPSConnectionPool(host='transl
+ate.google.com', port=443): Max retries exceeded with 
+url: /m?tl=af&sl=en&q=If+you+like+lyrics%2C+google+search+www.lyrics.com%2C+they+have+a+lot+of+lyrics+on+that+site. (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B79DFE56D0>: Failed to resolve 'translate.google.com' ([Errno 11001] getaddrinfo failed)"))
+❌ Failed on chunk 44: HTTPSConnectionPool(host='transl
+ate.google.com', port=443): Max retries exceeded with 
+url: /m?tl=af&sl=en&q=The+cyclist+is+airborne+on+his+bike+as+it+makes+a+jump+between+two+mounds+of+earth. (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B79DFE44D0>: Failed to resolve 'translate.google.com' ([Errno 11001] getaddrinfo failed)"))
+❌ Failed on chunk 45: HTTPSConnectionPool(host='transl
+ate.google.com', port=443): Max retries exceeded with 
+url: /m?tl=af&sl=en&q=A+cyclist+is+gleeful+after+taking+an+early+lead+in+his+contest. (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B79DB15730>: Failed to resolve 'translate.google.com' ([Errno 11001] getaddrinfo failed)"))       
+❌ Failed on chunk 46: HTTPSConnectionPool(host='transl
+ate.google.com', port=443): Max retries exceeded with 
+url: /m?tl=af&sl=en&q=Ukraine+will+not+give+%27an+inch%27+over+Crimea (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B79DE8CDA0>: Failed to resolve 'translate.google.com' ([Errno 11001] getaddrinfo failed)"))
+❌ Failed on chunk 47: HTTPSConnectionPool(host='transl
+ate.google.com', port=443): Max retries exceeded with 
+url: /m?tl=af&sl=en&q=Dingwall+Road+%2F+Wettern+House%2C+CR0+0XH+Croydon%2C+UK+Plant+Breeders+Inst. (Caused 
+by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B79DF909B0>: Failed to resolve 'translate.google.com' ([Errno 11001] getaddrinfo failed)"))
+❌ Failed on chunk 48: HTTPSConnectionPool(host='transl
+ate.google.com', port=443): Max retries exceeded with 
+url: /m?tl=af&sl=en&q=blonde+says+i+know%2Ci+tried+that%2C+but+i+couldn%27t+breath%21 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B79DDE8380>: Failed to resolve 'translate.google.com' ([Errno 11001] getaddrinfo failed)"))       
+❌ Failed on chunk 49: HTTPSConnectionPool(host='transl
+ate.google.com', port=443): Max retries exceeded with 
+url: /m?tl=af&sl=en&q=Craeg+is+told+he+is+staying+at+the+compound+then+Axe+too%21%21 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B79DE8DDC0>: Failed to resolve 'translate.google.com' ([Errno 11001] getaddrinfo failed)"))        
+❌ Failed on chunk 50: HTTPSConnectionPool(host='transl
+ate.google.com', port=443): Max retries exceeded with 
+url: /m?tl=af&sl=en&q=In+so+many+ways%2C+to+so+many+people+around+the+world%2C+America+really+IS+the+%22Great+Satan%22+%23GayMarriage+%23Drugs+%23WakeUpAmerica (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B79DB14D40>: Failed to resolve 'translate.google.com' ([Errno 11001] getaddrinfo failed)"))
+❌ Failed on chunk 51: HTTPSConnectionPool(host='transl
+ate.google.com', port=443): Max retries exceeded with 
+url: /m?tl=af&sl=en&q=96+commit+cards+collected+for+Hillary+in+Greenville%2C+SC+so+far%21+%23FellowsSC (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B79DFE6750>: Failed to resolve 'translate.google.com' ([Errno 11001] getaddrinfo 
+failed)"))
+❌ Failed on chunk 52: HTTPSConnectionPool(host='transl
+ate.google.com', port=443): Max retries exceeded with 
+url: /m?tl=af&sl=en&q=And+he+ain%27t+into+the+grid%2C+neither. (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B79DFE5790>: 
+Failed to resolve 'translate.google.com' ([Errno 11001] getaddrinfo failed)"))
+❌ Failed on chunk 53: HTTPSConnectionPool(host='transl
+ate.google.com', port=443): Max retries exceeded with 
+url: /m?tl=af&sl=en&q=%28Rather+admittedly%2C+this+summary+is+not+as+all-encompassing+as+my+summaries+usually+are. (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B79DDEA150>: Failed to resolve 'translate.google.com' ([Errno 11001] 
+getaddrinfo failed)"))
+❌ Failed on chunk 54: HTTPSConnectionPool(host='transl
+ate.google.com', port=443): Max retries exceeded with 
+url: /m?tl=af&sl=en&q=Minor+additional+endorheic+lakes+exist+throughout+the+Mediterranean+countries+Spain+%2C+Italy+%2C+Cyprus+and+Greece+. (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B79DF5DBE0>: Failed to resolve 'translate.google.com' ([Errno 11001] getaddrinfo failed)"))       
+❌ Failed on chunk 55: HTTPSConnectionPool(host='transl
+ate.google.com', port=443): Max retries exceeded with 
+url: /m?tl=af&sl=en&q=Type+his+name+into+the+search+bar. (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001B79DFE6510>: Failed to resolve 'translate.google.com' ([Errno 11001] getaddrinfo failed)"))
+Traceback (most recent call last):
+  File "c:\Users\User\OneDrive\Desktop\Honours\School\COS760\afrikaans_sem_rel\english_finetuning_checkpoint.py", line 69, in <module>
+    english_df['sentence1'] = translated_sent1        
+    ~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\User\anaconda3\Lib\site-packages\pandas\core\frame.py", line 4311, in __setitem__
+    english_df['sentence1'] = translated_sent1        
+    ~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\User\anaconda3\Lib\site-packages\pandas\core\frame.py", line 4311, in __setitem__
+    self._set_item(key, value)
+  File "C:\Users\User\anaconda3\Lib\site-packages\pandas\core\frame.py", line 4524, in _set_item
+    value, refs = self._sanitize_column(value)        
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^        
+  File "C:\Users\User\anaconda3\Lib\site-packages\pandas\core\frame.py", line 5266, in _sanitize_column     
+    com.require_length_match(value, self.index)       
+  File "C:\Users\User\anaconda3\Lib\site-packages\pandas\core\common.py", line 573, in require_length_match 
+    english_df['sentence1'] = translated_sent1        
+    ~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\User\anaconda3\Lib\site-packages\pandas\core\frame.py", line 4311, in __setitem__
+    self._set_item(key, value)
+  File "C:\Users\User\anaconda3\Lib\site-packages\pandas\core\frame.py", line 4524, in _set_item
+    value, refs = self._sanitize_column(value)        
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^        
+  File "C:\Users\User\anaconda3\Lib\site-packages\pandas\core\frame.py", line 5266, in _sanitize_column     
+    com.require_length_match(value, self.index)       
+  File "C:\Users\User\anaconda3\Lib\site-packages\pand    english_df['sentence1'] = translated_sent1        
+    ~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\User\anaconda3\Lib\site-packages\pandas\core\frame.py", line 4311, in __setitem__
+    self._set_item(key, value)
+  File "C:\Users\User\anaconda3\Lib\site-packages\pandas\core\frame.py", line 4524, in _set_item
+    value, refs = self._sanitize_column(value)        
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^        
+  File "C:\Users\User\anaconda3\Lib\site-packages\pandas\core\frame.py", line 5266, in _sanitize_column     
+    com.require_length_match(value, self.index)       
+    english_df['sentence1'] = translated_sent1        
+    ~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\User\anaconda3\Lib\site-packages\pandas\core\frame.py", line 4311, in __setitem__
+    self._set_item(key, value)
+  File "C:\Users\User\anaconda3\Lib\site-packages\pandas\core\frame.py", line 4524, in _set_item
+    value, refs = self._sanitize_column(value)        
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^        
+  File "C:\Users\User\anaconda3\Lib\site-packages\pandas\core\frame.py", line 5266, in _sanitize_column     
+    english_df['sentence1'] = translated_sent1        
+    ~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\User\anaconda3\Lib\site-packages\pandas\core\frame.py", line 4311, in __setitem__
+    self._set_item(key, value)
+  File "C:\Users\User\anaconda3\Lib\site-packages\pandas\core\frame.py", line 4524, in _set_item
+    value, refs = self._sanitize_column(value)        
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^        
+  File "C:\Users\User\anaconda3\Lib\site-packages\pand    english_df['sentence1'] = translated_sent1        
+    ~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\User\anaconda3\Lib\site-packages\pandas\core\frame.py", line 4311, in __setitem__
+    self._set_item(key, value)
+  File "C:\Users\User\anaconda3\Lib\site-packages\pandas\core\frame.py", line 4524, in _set_item
+    value, refs = self._sanitize_column(value)        
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^        
+    english_df['sentence1'] = translated_sent1        
+    ~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\User\anaconda3\Lib\site-packages\pandas\core\frame.py", line 4311, in __setitem__
+    self._set_item(key, value)
+  File "C:\Users\User\anaconda3\Lib\site-packages\pandas\core\frame.py", line 4524, in _set_item
+    english_df['sentence1'] = translated_sent1        
+    ~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\User\anaconda3\Lib\site-packages\pandas\core\frame.py", line 4311, in __setitem__
+    self._set_item(key, value)
+    ~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\User\anaconda3\Lib\site-packages\pandas\core\frame.py", line 4311, in __setitem__
+    self._set_item(key, value)
+  File "C:\Users\User\anaconda3\Lib\site-packages\pandas\core\frame.py", line 4311, in __setitem__
+    self._set_item(key, value)
+  File "C:\Users\User\anaconda3\Lib\site-packages\pand    self._set_item(key, value)
+  File "C:\Users\User\anaconda3\Lib\site-packages\pandas\core\frame.py", line 4524, in _set_item
+    value, refs = self._sanitize_column(value)        
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^        
+as\core\frame.py", line 4524, in _set_item
+    value, refs = self._sanitize_column(value)        
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^        
+    value, refs = self._sanitize_column(value)        
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^        
+  File "C:\Users\User\anaconda3\Lib\site-packages\pandas\core\frame.py", line 5266, in _sanitize_column     
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^        
+  File "C:\Users\User\anaconda3\Lib\site-packages\pandas\core\frame.py", line 5266, in _sanitize_column     
+  File "C:\Users\User\anaconda3\Lib\site-packages\pandas\core\frame.py", line 5266, in _sanitize_column     
+    com.require_length_match(value, self.index)       
+as\core\frame.py", line 5266, in _sanitize_column     
+    com.require_length_match(value, self.index)       
+    com.require_length_match(value, self.index)       
+  File "C:\Users\User\anaconda3\Lib\site-packages\pandas\core\common.py", line 573, in require_length_match 
+    raise ValueError(
+ValueError: Length of values (0) does not match length of index (5500)
