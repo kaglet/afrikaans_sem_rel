@@ -1,0 +1,751 @@
+sentence1,sentence2,label
+"Hoe, dink jy, is die pikkewyn aangepas om in water te swem?","Hoe, dink jy, stoor dit water vir lang tydperke?",0.56
+"Indien moontlik, vra ons vir donasies uit die gemeenskap om by te dra tot n suksesvolle fondsinsamelingsprojek.","Indien die gemeenskap vir ons van enige donasies kan voorsien, sal dit opreg waardeer word.",0.84
+Jy ry die eerste hoepel antikloksgewys tot by n vurk in die pad.,Internet is die ander tegnologie wat dit moontlik maak om jou besigheid op n bekostigbare manier te bemark.,0.19
+"Vettel veg uitstekend terug om steeds vyfde te eindig, maar dis n groot knou vir sy kampioenskap-droom.","Ons ry tot bo-op die hoë duin, en kon van bo af die soutwerke mooi sien.",0.19
+"Ek het n kruisie gemaak dat jy my kan sien, waar ek by die venster uitloer.","As ek nie n kruisie gemaak het nie, sal jy nie eens geweet het dis ek nie.",0.72
+Die WR het 74.5% van die subjekte korrek geklasifiseer met 'n sensitiwiteit van 93%.,Dit het 74.5% van die subjekte korrek geklassifiseer met 'n sensitiwiteit van 69%.,0.5
+"Indien jy n verf met n oplosmiddel-basis gebruik het, sal verfstroper goed werk.",Wend n onderlaag aan  Plascon se Tile & Melamine Primer werk baie goed.,0.62
+Vishuis sal ook n erfenissentrum wees.,"Wanneer Vishuis voltooi is, kan dit n brug wees in die gemeenskap.",0.69
+Die rand het in Desember teenoor sowel die dollar as die euro versterk.,"Einde Desember het die rand teen onderskeidelik R12,37 en R14,82 teenoor die dollar en euro verhandel.",0.66
+Die komma kan vir nadruk gebruik word om woorde of frases van die res van die sin te skei.,Die komma word nie ná die aanhef en groet in 'n brief of e-pos gebruik nie.,0.91
+Pak n laag komkommerlinte op die rys.,"Pak n ry biltong, avokado en soetrissie oor die lengte van die rys en rol styf op.",0.75
+Bykomende inligting oor die toekennings is beskikbaar hier afgelaai word.,Bykomende inligting oor NAB Wys New York is hier afgelaai word.,0.53
+Ons maklike resepte is ook aflaaibaar in gidse wat jy kan uitdruk en in jou kombuis kan hou.,So kan jy dan ook die maklike resepte wat op Ontbytsake gedeel word op rekenaar of selfs kompakskyf hou.,0.75
+"Gemaak deur 'n betroubare maatskappy, bied hierdie produk vitamien K1 as fyllokinoon.",Hierdie produk word vervaardig deur 'n bekende betroubare handelsmerk; maar dit is baie duurder as sommige alternatiewe.,0.44
+Die doel van die vervreemding van die grond was die oprigting van die nuwe hoë hof vir Mpumalanga.,Die munisipaliteit moes gevolglik n ander stuk grond aankoop vir die oprigting van die nuwe hoë hof.,0.59
+Oranjeroete (5 km)  lekker vir gesinne wat hulle tegniese vaardighede wil toets.,Geelroete (30 km)  geskik vir die meeste bergfietsryers.,0.69
+Neem n afvalstukkie kroonlys en merk waar dit die muur en die plafon ontmoet.,Posisioneer die lys waar die muur en plafon ontmoet en hou vas tot die gom droog is.,0.59
+Skaap sleep die bruin dwarshoute oor die swaar stompe.,Skaap en bewer kap die dwarshoute vas aan die swaar stompe met lang spykers.,0.66
+Tans is dit die enigste verklarende Afrikaanse woordeboek wat op n selfoon beskikbaar is.,Dit is as n CD en n aanlynweergawe (ook op n selfoon) beskikbaar.,0.72
+Sy werk by n privaat kleuterskool en woon in Durbanville.,Pak n laag lasagne-velle bo-op en herhaal tot jy vier lae het.,0.16
+Sny n gaatjie in die middel van die deeg sodat die stoom kan ontsnap.,Gebruik n kleinbordjie om die deeg in agt sirkels te sny.,0.56
+Ons kon nooit kontak met enige van Lourens se nasate maak nie.,Ons kon egter steeds nie kontak maak met enige nasate nie.,0.66
+"Toe hulle terugkom by die huis, was daar n kosblik op die sypaadjie.","Die brief waarin aangedring word op n losprys, was in die kosblik.",0.47
+"Hierdie prikkels word na die melkkoei se brein herlei, waar die hipofise (pituitêre klier) geleë is.",Ek wil voorstel jy raadpleeg jou algemene praktisyn of n seelkundige om die angs probleem to probeer oplos.,0.34
+In 2018 wissel dit tussen een Engelse titel tot n 50/50-verdeling.,"Kouer lug het 'n hoer relatiewe humiditeit, en warmer lug het 'n laer relatiewe humiditeit.",0.06
+Giet n laag vla oor.,Herhaal die proses; eindig met n laag vla.,0.81
+"As jy n meer soliede afwerking verkies, maak silwer jou basiskleur.","Kies n emalje- of PVA-verf as basislaag, afhangend van die meubelstuk se bestaande afwerking.",0.41
+Lê spek neer op n plat oppervlak sodat die lang kante van die spek net-net oor mekaar lê.,Begin van n kant af die spek om die filet vou sodat dit die filet toemaak.,0.69
+"Kook af tot jy sien dis stroperig, net ongeveer n 1/3 moet oor wees.","Jy kan dit in n sirkelpatroon doen, of die lint opdeel en net plat oor die bodem rangskik.",0.28
+"Hoe dink jy kan Afrikaanse, Afrika-, Nederlandse, Vlaamse en ander kunstenaars by mekaar leer?","Afrikaanse, Afrika-, Nederlandse en Vlaamse kunstenaars het groot komponente van hul tale as n gemene faktor.",0.81
+"Jy kan aan pos proe, maar die kos kan nie proe nie  dit smaak lekker of sleg.",Kos is smaaklik of smakeloos en jy sal sê: ek proe aan die kos en dit smaak lekker.,0.75
+Julle brand van begeerte om n meer aktiewe rol te speel in die redding van siele.,Dit lei tot n bladsy waarin jou besigheid se inligting in meer detail aangebied word.,0.28
+Skep n laag spinasie bo-op en gooi van die witsous oor.,Pak n laag lasagne-velle bo-op en herhaal tot jy vier lae het.,0.69
+Pols alles saam met 2 takkies ment (blaartjies van die stingel afgebreek) fyn met n staafmenger.,"Dit bevat ook 'n baie hoë hoeveelheid vitamien K, en dit sluit onnodige addisionele bestanddele in.",0.16
+Lewer n positiewe reaksie op negatiewe gebeure.,"Wanneer hulle hulle oorgee aan hulle negatiewe uitkyk op n situasie, wys vir hulle die positiewe sy.",0.69
+Hy sê egter nie wie die departement dink vervolg moet word nie.,Daar was egter geen verwysing daarin dat iemand vervolg moet word nie.,0.56
+"Die verskillende modelle van haatmisdaadwetgewing, omskrywingskwessies, asook die twispunte wat met hierdie wetgewing verband hou word oorweeg.",Hierdie artikel oorweeg ook praktiese probleme wat verband hou met die implementering van haatmisdaadwetgewing.,0.81
+"Anders as die meeste bekendes, sal jy haar nie in n hotelkamer aantref nie.",Doseer alle skape uitgesonderd die lammers met 'n breëspektrum parasietmiddel.,0.19
+"Die nuggets kan ook gebruik word as deel van n slaai, of in n tortilla-wrap.","Die Kokerboom Selfsorg Eenheid bied selfsorgverblyf in Loeriesfontein, 'n bekoorlike dorpie in die Noord-Kaap.",0.12
+Sommige belastingbetalers is gelukkig genoeg om op n terugbetaling vanaf die SAID geregtig te wees.,"Die SAID het 21 werksdae, na die afhandeling van n aanslag om n terugbetaling te maak.",0.75
+"As jy die videolesse eenmaal afgelaai het, is n internetverbinding nie meer nodig nie.","Wat jy nodig het, is n pad met al die nodige padborde en al die vinnige snelweë.",0.28
+Die 2de rok was n strapless rok met baie kralewerk op die bo-lyf en groot valle onder.,"Die 3de rok was n korter rokkie, wat net onder die knie sit.",0.53
+Vandag is dit n Erfenisgebied en bied talle werksgeleenthede aan die plaaslike inwoners.,Vandag is dit n Erfenisgebied wat deur middel van n veerboot besoek kan word.,0.59
+"Was dit jy alleen, of was jy deel van n groep mense?","Was dit n eenmalige gebeurtenis, of is dit iets wat jy op n gereelde basis doen?",0.25
+Drie jaar later trou sy met William Alfred Cowle.,Drie jaar later trou sy met Robert Sproat.,0.69
+"REGS: n Mikrografiese foto van piepklein groen alge, bekend as Ostreococcus.","BO: n Mikroskopiese foto van n kraplarwe, uit n plankton-versameling.",0.78
+"Gebruik dit in slaai, vrugteslaai, gooi dit in n drankie of versier n gereg daarmee.","As plantluise n probleem is, spuit met seepwater of vee dit af met n klam doek.",0.22
+Hierdie bundel is die opvolger van die baie suksesvolle Rympies vir Pikkies en Peuters wat in 2015 verskyn het.,"Hierdie liedjieboek bestaan uit 40 versies uit die gewilde Rympies vir pikkies en peuters, deur Gertie Smit getoonset.",0.72
+"Ja, want die gevaarlikste ding op twee bene is n skrywer op soek na n storie.",Uiteindelik bely die skrywer sy onmag om die storie tot n klinkende of knallende slot te bring.,0.62
+Hy word deur bendelede geteiken en beleef n paar dinge waarop hy nie gereken het nie.,"Hy word deur n inisiasie geneem, wat hom laat terugverlang na sy veilige huis by sy ouma.",0.44
+"Verf op hout-elemente kan met veiligheid verwyder word, selfs al het dit n loodbasis.",Die Bangalore Ooty Kodaikanal Tour pakket sal verseker dat jy die beste ervaring uit hierdie reis kry.,0.22
+Ben-Erik van Wyk is 'n professor in Plantkunde aan die Universiteit van Johannesburg.,Die mate van opening van die valdeurtjie word gereguleer met hierdie draadjie (c).,0.28
+Ná vier jaar vervang hy die motor met n nuwe een  n nuwer model.,Hy vervang dus ook elke vier jaar sy motor met n nuwe.,0.66
+"Hoe, dink jy, is die arend aangepas om te vlieg en sy prooi te vang?",Ek wil net baie dankie sê vir al julle moeite rakende ons troue.,0.12
+Elektriese strykysters het in die laat 1800s op die mark verskyn.,Outomatiese ketels het in die 1950s op die mark verskyn.,0.38
+"As die terrein betree word, moet die leerder afklim en die fiets tot in die fietsloods stoot.","Indien n ouer n leerder vroeër kom afhaal, moet die uittekenboek in die ontvangsarea voltooi word.",0.72
+"In 1378 het Mamai n Mongoolse leër gestuur, maar Dmitri se magte het dit verslaan.","Die verslane Mamai is daarna onttroon deur n mededingende Mongoolse generaal, Tochtamisj.",0.78
+"In 1927 het n Amerikaner, Charles Strite, die wêreld se eerste wiprooster ontwerp.",Dit is nie asof jy 20% meer werk n dag doen as n roker nie.,0.22
+"Treine word gebruik om mense, diere en goedere te vervoer.",Enige van die baie produkte by Cool Creations maak lieflike geskenke.,0.19
+Die kompetisie duur van 5 tot 25 Junie 2018 om middernag.,"Deur in te skryf vir die kompetisie, stem die deelnemer in tot die bepalings en voorwaardes.",0.53
+Die instrukteur plak elektrodes direk bokant sekere spiere en laat die elektriese impulse die werk doen.,"Nooit mag jy ophou bid nie, want Ek hoor jou elke keer.",0.22
+Die invloedwaardes van verskillende tydskrifte kan dan gebruik word om akademiese tydskrifte in n rangorde te plaas.,Hierdie algoritme kan dalk die basis van n beter ordening van akademiese tydskrifte vorm.,0.66
+Gooi n bietjie asyn by die bloed om te voorkom dat dit stol.,Gooi die spek en uie terug in die pot en strooi n bietjie meel oor.,0.33
+Hierdie spesialisasie word op n unieke manier aangebied.,Sedertdien verwerf swart Afrikaanse vroueskrywers n toenemend sterker posisie binne die Afrikaanse literêre sisteem.,0.34
+"Polêre geneesmiddels wat in water oplosbaar is, word direk, in hul oorspronklike vorm , uitgeskei.","Apolêre geneesmiddels wat in vet oplosbaar is, moet egter eers deur biotransformasie in polêre stowwe omgesit word.",0.88
+Die volledige verslag sal ook aan die werkgroep beskikbaar gestel word vir bespreking tydens 'n volgende vergadering.,Die werkgroep sal in kennis gestel word sodra die prysinligting op die webtuiste beskikbaar is.,0.56
+"Hoekom is jou vriendin wat onder die teken van die gulhartige Leeu gebore is, so suinig?","Hoekom is jou man wat onder die teken van die vriendelike Tweeling gebore is, so stil en ernstig?",0.69
+In die Psalms hoor ons die stem van die Herder van Psalm 23.,"Indien daar te min koeie op hitte kom, gaan soek raad.",0.28
+Laat die pasient plat lê in die voertuig met die ledemaat waarin hy gepik is effens gelig.,"Hy kon ook nie afkeurend daaroor frons nie, want dan sou dit geen silwerdoek gehaal het nie.",0.16
+Hulle is skaars n kilometer van die beskawing af.,Die drie kampplekke is skaars n kilometer van die Nossob-pad af.,0.56
+"Die tweede naaste wolf in skaapklere aan hierdie leier was n maer ram, maar nie klein nie.","Nog so n wolf in skaapklere wat naby aan hom beweeg het, was n pragtige ram.",0.72
+Meeste produkte brand en maak ons velle baie olierig.,"Hierdie room absorbeer vinnig, brand nie en maak ook nie ons velle olierig nie.",0.88
+Die konserwatiewe beweging het egter nie n toekomsvisie nie en kan daarom nie inspireer nie.,Hulle kan slegs argumenteer dat die utopiese toekomsvisie van die progressiewe beweging in werklikheid n distopie gaan wees.,0.75
+Donnalee ontvang by hierdie toekennings ook die prys vir Aktrise van die Jaar vir haar hoofrol as Amory.,Tog is n koevoet hoegenaamd nie die enigste soort hefboom wat in ons wêreld bestaan nie.,0.19
+Druk die kleiner houer in die middel sodat n gaatjie gevorm word waar die plantjie geplant gaan word.,Gooi n paar klippies in die klein vormpie sodat die gips dit nie na bo druk nie.,0.44
+Vir elke dag van die jaar is daar 'n kort aanhaling oor wat geloof is in net tien woorde.,Begin elke dag met hierdie aanhaling en dra die tien woorde saam met jou.,0.62
+"Omdat jy dit dikwels gebruik, moet jy weet hoe jy dit sal hernu.",Munt kan op baie maniere gebruik word en jy moet net weet hoe jy dit laat groei.,0.25
+Stel jou voor jou kind skryf elke week n opstel.,Washington is ook n fietsryer-vriendelike stad.,0.09
+Dit is n goeie geleentheid om staaltjies en stories te deel.,"Dit is n goeie tyd om stories te weef, hetsy verbeeld of werklik.",0.69
+Moenie belê in iets wat jy nie verstaan nie  selfs al ís dit n goeie belegging.,"As jy dit nie verstaan nie, weet jy nie wat die risiko van n belegging behels nie.",0.75
+"Wanneer jy ander blameer, ondermyn dit jou vermoë om verantwoordelikheid oor jou eie lewe te neem.",Die skrywer vertel ons in die verhaal hoe n storie ontstaan en is n belangrike faset in die verhaal.,0.25
+"Dit is gemaak van hoë gehalte bestanddele, maar dit is nie geskik vir vegane of vegetariërs nie.",Daar was volgens n raming n tyd gelede sowat 30 miljoen skape in Suid-Afrika.,0.31
+"Hulle kan oorals op die noordelike kontinente, die brokstukke van Laurasië aangetref word.","Op die suidelike kontinente, veral Suid-Amerika word hulle newe die Gondwanatheria aangetref.",0.62
+Maak hom n flattie: Draai die hoender om sodat die borsbeen na onder wys.,Draai die hoender om en skuif dit na n koeler deel van die rooster.,0.75
+"Omdat lig nie om n voorwerp kan beweeg nie, vorm n skaduwee daaragter.","Baie voorwerpe laat wel n hoeveelheid lig deur, maar is nie deursigtig nie.",0.84
+"Sy was met Johnny du Bruyn getroud en het n seun Vaughn en dogter, Julie.",Bêre op n droë plek en saai dit die volgende seisoen weer.,0.12
+Pols totdat dit n bal vorm.,Dit moet n stywe bal deeg vorm.,0.72
+Dus is n roeiboot of aasboot noodsaaklik as jy die vis wil teiken.,Skaf dus gerus n verkyker aan sou jy oor daardie afstande wil hengel.,0.75
+Hoekom sit jy jou kind in n Engelse skool?,Hoe was dit vir jou as Afrikaanse kind in n Engelse skool?,0.5
+Met die masjiene kan sy organe glo nog vir n onbepaalde tyd aan die gang gehou word.,In hierdie publikasie vertel Van Rensburg n alternatiewe verhaal oor die ontstaan van Afrikaans.,0.28
+Met enkelbedragongeskiktheidsdekking word n kontantbedrag betaal as jy permanent ongeskik raak en gevolglik nie kan werk nie.,Inkomstebeskermingsdekking betaal n maandelikse inkomste uit as jy tydelik of permanent ongeskik raak.,0.59
+Die Suid-Afrikaanse Jongwynskou is die oudste wynkompetisie in Suid-Afrika en is vanjaar vir die 186ste keer gehou.,Jou beste vriend / vriendin bly in Kaapstad.,0.34
+Ons sal maar n uitgebreide toer van Lesotho doen as ons meer 4x4e is wat saamgaan.,"My pa en swaer het darem 4x4e, so sal maar saam hulle n toer reël.",0.69
+Hoe lyk n tipiese Boer?,Lyk jy soos n slagoffer dan lyk jy ook soos n tipiese Boer.,0.62
+Neem asseblief ook van die volgende kennis voordat u die Argief besoek.,Neem asseblief kennis van die Versamelings Oorsig vir inligting rakende die versamelings wat in die Argief beskikbaar is.,0.78
+Derhalwe word die korrelasies volgens subgroepe en vir 12 maande oue bokke (seleksie-ouderdom) aangebied.,"HGG Finansiële Groep kondig met trots aan die stigting van 'n nuwe divisie, HGG BEEadvised.",0.16
+Ek sou graag vir jou wou skryf en vertel hoe mooi jou hare is.,Ek sou graag vir jou wou vertel hoe opgewonde ek raak as ek jou stem hoor.,0.66
+Dit sluit buiten poste vir onderwysers ook dié vir skoolhoofde en departementshoofde in.,"Die sluitingsdatum vir onderwysers is 14 September, terwyl aansoeke vir skoolhoofde en departementshoofde op 28 September sluit.",0.7
+"Doen hulle dieselfe as jy, of doen hulle iets heeltemal anders?",Daarna kom daar 'n 1cm lagie fyn hoendermis voordat jy die sak met die res van jou tuinafval vul.,0.22
+Gee jou video n titel en beskrywing in die nodige velde.,"Terwyl jou video laai, gee dit n naam en beskrywing.",0.81
+"Die amaril word dan, met die skuurvlak ondertoe, op die klemplaat gesit.","As die blare in pare teenoor mekaar gerangskik is, word dit teenoorstaande blaarstand genoem.",0.25
+Ek het jammer gevoel omdat Sprinkaan Mier so geterg het en so onvriendelik met Mier was.,Ek het jammer vir Sprinkaan gevoel omdat Mier nie vir hom kos wou gee nie.,0.81
+Hierdie twee manne veg om n merkwaardige vyfde wêreldtitel agter hulle name te kan skryf.,"Die herbivore, oftewel primêre verbruikers, verkry hul energie deur die plante te vreet.",0.19
+In 1959 het hy en sy eggenote 'n uitgebreide reis deur Afrika en Europa onderneem.,Gedurende 1962 het hulle op uitnodiging van 'n Afrikaanse Sondagkoerant weer 'n reis van drie maande deur Afrika onderneem.,0.59
+Baie mense groei die Atlantic Giant pampoen variëteit vir kompetisies by pampoenfeeste regoor die wêreld.,"Dit het pap gereën en elkeen wat n verbintenis met die Guptas gehad het, het ruim geskep.",0.19
+Hierdie situasie word aangeneem in die Suid-Afrikaanse reg om  stipulatio alteri te wees.,Aanvaarding is  unieke Suid-Afrikaanse vereiste wat gestel word vir die begunstigde in die toepassing van die stipulatio alteri.,0.69
+"Die skool aanvaar geen verantwoordelikheid indien dit wegraak, gesteel of beskadig word nie.",Die skool aanvaar geen verantwoordelikheid vir diefstal uit sluitkassies nie.,0.81
+"Ek het n baie onbetroubare vriend, maar tog vertrou ek my vriend met my lewe.","Ek is dom om dit te doen, maar my vriend is n slim foon.",0.41
+"Maak 2 of 3 foeliebolletjies, sit hulle n entjie van mekaar weerskante van die hopie tee.",Sommige het 800 kalorieë per 100 gram.,0.41
+Coenraad Buys was 'n agterkleinkind van die Franse Hugenoot Jean de Buis en sy vrou Sara Jacobs.,"Sara Jacobs was 'n dogter van my stamvader, Pierre Jacob, wat ook 'n Franse Hugenoot was.",0.75
+"Daar sal ook 'n slaglamkompetisie Donderdag 11 Februarie, van 09:00 gehou word.",Woensdagaand 10 Februarie sal raakrugby aangebied word en 'n interskole toutrekkompetisie word Donderdagaand 11 Februarie gehou.,0.47
+"Die vrou glo dit natuurlik glad nie, maar die winkelklerk sê: ''Karate daardie stoel!''",Vervolgens sê hy vir hond: ''Karate daardie tafel.'',0.59
+Skilpaie wat aan die suborde behoort kan hulle nekke reguit onder hulle doppe intrek.,"Skilpaaie wat aan die suborde Pleurodira behoort, daarteenoor, vou hulle nekke onder hulle doppe in.",0.69
+"Wanneer afsprake gereël word, maak seker dit is in openbare plekke.","Wanneer jy iemand in lewende lywe ontmoet, maak seker dat n familielid of vriend weet waar jy is.",0.72
+"Hy gee nie om wat n mens se ras, posisie, kwalifikasie of agtergrond is nie.","Die feit dat n mens n titel het, beteken nie noodwendig dat jy kan lei nie.",0.44
+"Die saadjies is so groot soos n ertjie, wat dit maklik maak om een-een te saai.",Daarbenewens kan sommige geneesmiddels mekaar se werking versterk of teenwerk.,0.31
+"Om ontwikkeling in Suid-Afrika suksesvol te laat geskied, moet verskeie faktore inaggeneem word.",Dus moet hidrologiese inligting inaggeneem word tydens besluitneming vir die ontwikkeling van kleinskaalse boerdery.,0.34
+Ek moet ook daardie kind se vertroue en respek verdien.,Ek moet ook eers daardie kind se storie hoor.,0.59
+"Almarie du Preez se eerste Afrikaanse enkelsnit, Jy Vir My, is gedurende Junie 2017 bekendgestel.","Die amptelike musiekvideo vir hierdie liedjie word nou, gedurende Oktober 2017 bekendgestel.",0.41
+Die oomblik dat n slang weet hy kan onafhanklik bestaan dan pik hy jou dood.,"Louis Botha en Jan Smuts, daarenteen sou verbete Engelsgesindes word.",0.22
+"Wanneer misdaadstatistiek aan die publiek deurgegee word, word die terminologie nie altyd konsekwent gebruik soos hierbo gedefinieer nie.",In die plaaslike misdaad rapportering word gereëld terminologie soos die onderstaande gebruik.,0.56
+"Dit is gemaak van hoë gehalte koudpers, ekstra-maagd klapperolie.",In die somer rondom 21 Junie is die son vir ongeveer drie maande lank laag bokant die horison sigbaar.,0.19
+"Ek sien hier is so paar ouens op die forum wat betrokke is by metaal werk, fabrikasie ens.","Vir ons ouens wat nie aldag metaal werk doen nie is dit 'n groot werk, ek stem saam.",0.56
+Pak n laag poffertjies bo-op die koekstruif en giet nog stroop oor.,Die stroop kan in die middellaag uitgelaat word vir n minder soet koekstruif.,0.75
+By 100°C en 200°C is daar minder oksied vormasie waargeneem en bo 300°C was daar slegs suurstof adsorpsie.,Oksidasie is waargeneem tot by 300°C en geen oksied vormasie is waargeneem by hoër temperature nie.,0.94
+Hou dit altyd in jou broek of baadjie sak as jy gaan fotos neem.,Kry n fluitjie en dra dit om jou nek elke keer as jy gaan fotos neem.,0.47
+Elke persoon behoort n bedrag te spaar wat gelykstaande is aan 15% van jou salaris.,Jy sal n baie groter bedrag moet spaar.,0.62
+In Hoofstuk 4 word gedigte behandel waarin die digter skryf oor sosiale status van mense.,In Hoofstuk 5 word gedigte behandel wat die tema het dat mense moet terugkeer na tradisionele gebruike.,0.72
+Bo 300°C is daar geen oksied vormasie waargeneem nie en by hierdie temperature is daar slegs suurstof adsorpsie.,Oksidasie is waargeneem tot by 300°C en geen oksied vormasie is waargeneem by hoër temperature nie.,0.91
+Die simbool Q word gereeld gebruik om die hoeveelheid elektrisiteit of lading aan te toon.,"Die hoeveelheid elektriese lading kan direk gemeet word met 'n elektrometer, of indirek gemeet met 'n ballistiese galvanometer.",0.75
+Predatore of sekondêre verbruikers vreet weer die primêre verbruikers en/of ander sekondêre verbruikers om energie te verkry.,"Plaas die volgende koeklaag bo-op, smeer weer n laag karamelmengsel oor, gevolg deur gerasperde Peppermint Crisp.",0.19
+Die Vrydag Bederf is n great plek om die vroulike vorm te bewonder.,Die Vrydag Bederf is ook n great manier om jou week af te sluit.,0.72
+"Dit was geskryf deur Gideon Brückner, gelees deur François Haasbroek en skets deur Fred Mouton.","Dit is geskryf en gelees deur Toast Coetzer, skets deur Fred Mouton.",0.72
+MEP's het verlede week by die Europese Parlement gearresteer.,Die diagonaal van 'n reghoek is 25 cm meer as die wydte.,0.06
+Steentjie Drakie wil so graag n maatjie hê.,Senwes behou die reg voor om hierdie beleid oor die beskerming van privaatheid te enige tyd te wysig.,0.22
+Fredi Nester Esterhuizen (25 Maart 1959  3 Julie 2015) was 'n Afrikaanse liedjieskrywer en sanger.,"Fredi is op 25 Maart 1959 in Johannesburg, Suid-Afrika, gebore en was die oudste van vyf kinders.",0.77
+Daai spark wat maak dat ek iemand beter wil leer ken.,In die Griekse vertaling van die Ou Testament word hierdie woord nooit vir laste of probleme gebruik nie.,0.12
+Ek het amper twee jaar lank met my lewe aangegaan en weer iemand gekry vir wie ek lief is.,Ek gaan weer uit met n man met wie ek twee jaar gelede uitgemaak het.,0.5
+Ons nuwe huisvoer gee u onmiddellike toegang tot die nuutste nuus met 'n gesamentlike nuuservaring oor u geliefde onderwerpe.,Gevorderde nuus ervaring - Die nuwe tuisskerm gee jou die beste nuus oor jou gunsteling afdelings.,0.56
+Hierdie gebeure het in Junie 2005 tot Zuma se afdanking as Visepresident van Suid-Afrika gelei.,Zuma is kort na sy afdanking as Visepresident van Suid-Afrika formeel aangekla van korrupsie.,0.84
+"Die temperatuur waarby voedsel gesteriliseer word, verskil van voedselsoort tot voedselsoort.",Maar toe ruil hy die wine en dine vir n R2000 skenking vir die radio se gee projek.,0.31
+Hiers die laaste staplysie wat jy ooit sal nodig hê  ongeag hoe lank jou staptog.,Hiers ons gids indien jy onseker is hoe om podcasts af te laai.,0.31
+"Watter soort poësie ek skryf, hang tot n mate ook af van die leser.","Elke leeshouding is geldig, maar elke opvatting sorg weer vir n ander tipe leser.",0.62
+Gebruik n skerp sjefsmes om elke rol reg van bo af in die lengte middeldeur te sny.,"Die primêre struktuur word deur kovalente peptiedbindings, wat tydens die translasieproses gemaak word, aanmekaar gehou.",0.16
+"Dit het boonop n wye uitkringeffek, wat ook Suid-Afrikaanse se landboumarkte gaan beïnvloed.","Wanneer jy die vitamienes benodig, gebruik jou liggaam dit wat reeds gestoor is in jou vet.",0.28
+"Die vrou gaan toe na die naaste troeteldierwinkel en sê: ''Kan julle my help, asseblief?","Die vrou glo dit natuurlik glad nie, maar die winkelklerk sê: ''Karate daardie stoel!''",0.44
+Marí Hudson gesels met n chirurg van die Tygerberg Hospitaal oor dié kwessies.,Marí Hudson gesels in Borskankermaand met dr. Trusia Burgers van Somerset-Wes oor haar persoonlike stryd teen borskanker.,0.62
+Daarna kan die druk konstant gehou word as die druk en die temperatuur saam ondersoek word.,"Wie sal vir haar sê: Liefling, jy lyk pragtig?",0.16
+Wêreldwyd se Wêreldgids is so trots Suid-Afrikaans soos n boereworsrol by n Springbokrugbywedstryd.,Elke week kies Wêreldwyd n besigheid uit die Wêreldgids om in die Kollig te verskyn.,0.72
+"As n aankoop gekanselleer word, word jou betaling tenvolle aan jou terug besorg.","Vir pakkies wat swaarder is as dit kan n bykomende kwotasie gestuur word, afhangende van die eindbestemming.",0.53
+"Naaldwerk kan ek doen, moet my nie verkeerd verstaan nie!",Pa vind uit dit gaan  astronomiese bedrag kos om die karretjie reg te maak.,0.31
+Ek het nooit n vaste plan met die spesifieke foto wat ek wil neem nie.,"Ons gesels, neem n paar fotos, gesels weer, neem weer.",0.5
+Die radionstasie Radio Rosestad hier in Bloem is besig met n projek waar mense skenkings kan maak.,"Ons waardeer die mooi woorde so baie, dit is ons missie om gelukkige gaste huistoe te stuur.",0.31
+Elke duiker het n buddy of is n buddy vir n ander scubaduiker.,Elke duiker (en dus buddy) het n back-up regulator.,0.88
+"As jy die uitlener is, kan jy vereis dat die lener sy skuld met n polis dek.",Op n dag besluit Steentjie Drakie tot hiertoe en nie verder nie.,0.16
+Kali word ook al hoe meer gedwing om n keuse tussen Zak en Leonardo te maak.,Sy ontdek ook dat daar n Kali ontluik wat sterker en dapperder is as arme banggat Kali.,0.78
+Hierdie artikel ondersoek Afrika orakelspraak as n tipiese genre van orale poësie.,Hierdie artikel argumenteer kortliks dat die waarsêer-geneser n orale uitvoerder word.,0.66
+Lê spek neer op n plat oppervlak sodat die lang kante van die spek net-net oor mekaar lê.,Pak die kole rondom en pak n paar kole oor die deksel sodat dit kan kook.,0.44
+"Affi Lande se verblyf was vreeslik lekker en baie mooi, skoon en netjies.",Ek kan Affi Lande vir enige iemand met 'n geruste hart aan beveel vir 'n baie lekker verblyf.,0.88
+Die volgorde van die letters kan gekontroleer word deur die tang op n stukkie karton te knip.,Van die ink kan op n stukkie watte of wol in n leë politoerblikkie gegooi word.,0.44
+Hierdie wal is een van 'n reeks wat oor 'n ou pad aangebring is.,Bokant hierdie wal is 'n reeks keerwalle oor dieselfde sloot.,0.47
+Daar is ook n boek oor Mirabella Muis wat huise ontwerp.,En kort voor lank verander sy regtig in n luiperd.,0.19
+Spur se besluit om net die vrou te verban is miskien onoordeelkundig gewees.,"Spur se besluit om net die vrou alleen te verban is onoordeelkundig, sê jy.",0.78
+Giet die orige marinade in n kastrol en laat weer goed kook.,"Brood wat nie geknie word nie, of roerbrood, is egter nie n nuwigheid nie.",0.44
+"As mens die lugreëling aansit, is dit beter, maar mens kan voel die verwarmer is ook aan.","Na 'n tyd gaan die verwarmer dan weer af, mens kan dit duidelik voel.",0.69
+Ek was al in die hele Namibië onder die ou Rooi lyn gebied.,Beplan elke geval vir 2018 om die ou Rooi lyn gebied plat te ry.,0.81
+Meng volgende keer n paar teelepels heuning met n bietjie water en gooi dit oor jou vrugte.,Gooi n paar lemoenskille in jou houer met bruinsuiker.,0.53
+Iets so basies soos n blikkie vis is genoeg om n heerlike gesinsete op te tower.,Ons as onderwysers en leerders van die Afrikaanse Hoër Seunskool is lief vir en lojaal aan ons vaderland.,0.12
+"Hy is te los, of te styf, ek is regtig nie seker nie.","Want as hy te los (of styf) is, dan moet hy mos altyd skree.",0.53
+"Ek het net Canon lense & sou ek die Tamron oorweeg, sal dit my eerste Tamron lens wees.","As jy alreeds Canon lense gebruik,gaan jy baie teleurgesteld wees.",0.78
+Nou is daar n natuurlike benadering om jou vel te verbeter en dis vir alle veltipes geskik.,"Hoe langer die beleggingstermyn, hoe hoër is die rente op n vaste deposito.",0.19
+Vroulike wildsbokke groter as njalas word koeie genoem en kleiner wildsbokke se wyfies ooie.,Dit is n lied wat ou herinneringe terugbring en boonop diep sny; tot op die been.,0.25
+"Gaan jy dit alleen doen, of gaan julle in n groep?","Neem jy die leiding, of is daar n ander leier en jy gaan net saam?",0.56
+My eerste stukkie advies is dat jy realisties moet wees oor die afstand wat jy wil hengel.,Dit bring tot n einde die maanverkenningsprogram van die Verenigde State.,0.19
+Jy kan n vaste reistoelae of n vergoedende reistoelae aangebied word.,So sal jy ook sommer n bietjie krag spaar.,0.31
+In die praktyk beteken dit dat geweld nie goedgepraat kan word deur enige gebruiker op toeter nie.,Spuit kleefmiddel in die gapings en vee enige oorskiet met jou vinger of n stopverfmes af.,0.16
+Nature's Way Black Cohosh-aanvullings word gemaak met swart cohosh wortel poeier in 'n plant-gebaseerde kapsule.,Dit is 'n top-swart cohosh-aanvulling wat die wortel poeier bevat in 'n plant-gebaseerde kapsule.,0.78
+In die Psalms word die herderlike woorde  stem  van Psalm 23 gehoor.,Wie ken nou nie kappertjies met hul vrolike oranje en geel blommetjies wat n oorvloed kleur verskaf nie?,0.34
+Eers word n meisie noodlottig in n tref-en-trap beseer en daarna volg n grusame moord.,"Afgesien daarvan, verkragting is nie, soos jy dit stel, altyd sonder toestemming nie.",0.31
+"Skryf die nommer en die titel van die onderwerp wat jy kies, bo-aan.","Skryf die nommer en die opskrif van die teks wat jy kies, boaan jou skryfstuk neer.",0.88
+Sny die nektariens aan die bokant elk n kruisie oorlangs met n skerp mes.,Sny n kruisie in elke tamatie en plaas hulle op die bordjie in die kastrol.,0.53
+Die vliegdek word gebruik deur vliegtuie om te land en op te styg.,Onder die vliegdek is die loodse waar die vliegtuie gestoor word wanneer hulle nie in gebruik is nie.,0.78
+Jans Rautenbach word steeds allerweë beskou as een van die grootste baanbrekers binne die opbloei van die Suid-Afrikaanse filmbedryf.,In hierdie boek bespreek Martin Botha Jans Rautenbach se bydrae en betekenis tot die Suid-Afrikaanse filmbedryf.,0.72
+Dié lied vertel n verhaal van elkeen op sy plek; die storie van die ou Suid-Afrika.,"Op aanklag 2, besit van n onwettige vuurwapen, kry hy 3 jaar.",0.16
+"Ek is pissed, en nou is ek eers pissed oor ek elke keer die donerse ding verloor.","Die gebruiker wat hierdie basiese reël oortree, sal nie deur toeter geduld word nie.",0.41
+Die titel van Grand Master is slegs een keer in die geskiedenis van skaak aan n Suid-Afrikaner toegeken.,"Om n titel in skaak te kry, verg baie harde werk en deursettingsvermoë.",0.69
+Knie die vleis goed saam met die gekapte spek en geur met sout en peper.,"Veels geluk, vele mooi jare vir jou.",0.28
+Ek was al n paar keer by die kleiner winkel en twee keer by die groot winkel.,Ek besluit toe om die groot winkel n kans te gee.,0.62
+"Moenie geld aan ander mense leen nie, want Venus beweeg tot 16 November agteruit deur jou geldsone.","Die beste manier om n gewrig te laat rus, is om spalke of afgietsels te gebruik.",0.12
+"Jagersfontein is 'n klein dorp in die suidweste van die Vrystaat in Suid-Afrika, naby Fauresmith.",Jagersfontein was die tweede dorp in Suid-Afrika en die eerste in die Vrystaat om elektrisiteit te gebruik.,0.75
+Jy kan net af kry in jou tee tyd of middag ete tyd.,Gooi nou die vrugte en hawermout in die meel in en meng deur met jou vingers.,0.38
+Gedurende 1945 word hy aangestel as hoof van die spesiale afdeling (voorloper van die veiligheidstak).,Teen alle verwagting (ook teen sy eie verwagting) word hy as kommissaris aangestel.,0.47
+"Jy kan aan pos proe, maar die kos kan nie proe nie  dit smaak lekker of sleg.","So as jy sou sê die kos proe lekker, bedoel jy eintlik die kos smaak lekker.",0.78
+Die sand en steen wat n dam moes vorm het net so weer weggespoel.,Op hierdie manier kan n paar sinkkuipe langs mekaar n dam vorm.,0.47
+"So as jy sou sê die kos proe lekker, bedoel jy eintlik die kos smaak lekker.",Kos is smaaklik of smakeloos en jy sal sê: ek proe aan die kos en dit smaak lekker.,0.88
+"Was dit jy alleen, of was jy deel van n groep mense?","Gaan jy dit alleen doen, of gaan julle in n groep?",0.66
+Op Grootfontein is ondersoek ingestel na die invloed van seisoen en klimaat op die graad van verwering.,Ondersoek is ook ingestel na die invloed van beskutting by wyse van skaapkomberse en skaduwee om verwering te beperk.,0.62
+"In die tipe beroep wat ons het, kan jy nie n lyn trek nie.","En ek maak n punt daarvan, maar ek dink dat dit saam met my tipe persoonlikheid kom.",0.38
+Ek het jammer vir Sprinkaan gevoel omdat hy koud gekry het en honger was.,Ek drink en rook nie en sal daarvan hou om iemand nou en dan te bederf.,0.22
+Op hierdie manier kan n paar sinkkuipe langs mekaar n dam vorm.,Op hierdie manier kom al die sinkkuipe langs mekaar te staan en hulle vorm deel van die algehele werk.,0.75
+Dit is eers redelik onlangs dat die term Barok gebruik is vir die literatuur van die 17e eeu.,Die term Barok word in die Nederlandse literatuur gewoonlik vir die eerste keer vir Vondel se werk gebruik.,0.62
+Dié eens nederige vrug is vandag n gewilde lekkerny uit eie reg.,Die res is geskiedenismet die Oos-Kaap wat n gerekende pynappel-produserende streek uit eie reg sou word.,0.41
+Henry Viljoen het dubbelgoud vir sy klaviersolo asook die trofee vir die beste solo-instrument: senior ontvang.,Monica Kuit het die trofee vir die beste moderne danser: senior met n dubbelgoud gekry.,0.5
+"Al is Xhosa haar moedertaal, is Afrikaans n belangrike deel van wie sy is.",Sinki noem haarself n Afroboer en neem aktief deel aan gesprekke oor die toekoms van Afrikaans.,0.62
+"Ek het reeds twee jaar n verhouding met n ander man, al is ek gelukkig getroud.",Ek gaan weer uit met n man met wie ek twee jaar gelede uitgemaak het.,0.59
+Nelson Mandela sou op 18 Julie vanjaar sy 100ste verjaardag gevier het.,Onlangs is n tweede roos  Nelson Mandela  bekendgestel om sy 100ste verjaardag te vier.,0.78
+"Koopkrag hef geen aansluitingsfooie nie en daar is n maksimum administrasiefooi van slegs R3,50 per maand.",Skep driekwart van die sampioenmengsel op die pap en strooi n hand vol kaas bo-oor.,0.22
+Dit wil sê dat hulle die gedrag van die elektromagnetiese velde op een spesifieke punt in die ruimte beskryf.,Dit beskryf die gedrag van die elektromagnetiese velde oor makroskopiese volumes en paaie.,0.75
+Boonop het die toegang tot infrastruktuur en dienste soos water en sanitasie 'n direkte invloed op gesondheid.,Erkenning van die gesag van die Woord is van begin tot einde n saak van geloof.,0.16
+"Ons stories hoef ons nie te besit nie, ons stories is ons sn om te vertel.","Ons kan ons stories oorskryf, herinterpreteer om n nuwe storie  n nuwe EK te skryf.",0.66
+Die Nuwe Lewende Vertaling (NLV) is in 2006 deur CUM uitgegee.,Die NLV is n dinamies-ekwivalente vertaling soos die 1983 Nuwe Afrikaanse Vertaling (NAV).,0.81
+"Wil jy ander mense seermaak, of dalk skuldig laat voel?","Elke leerder moet n voorwerp vashou, byvoorbeeld n potlood.",0.19
+"Dalk sal n avontuurlike stokperdjie of n ongewone, kreatiewe projek jou ingebore weetgierigheid bevredig.","Soos wat jy die onderlaag bo-oor die roomblosser skakeer, sal jy n natuurlike, naatlose blos skep.",0.31
+Maak seker dat jy gesonde neute en sade in jou dieet insluit.,Maak seker dat jy die sade en neute met groen blaargroentes en 'n paar gesonde vrugte meng.,0.78
+Hy / sy is baie siek en jy het besluit om vir hom / haar n brief te skryf.,"Iemand met 'n goeie sagte hart, wat weet waar sy lojaliteit is.",0.5
+Gebruik dan n waterpas of laser-waterpas en trek n reguit lyn teen die muur.,Jy kan dan die kroonlys op die reguit lyn installeer en enige gapings teen die plafon met kleefmiddel vul.,0.62
+"Indien 'n leerder 'n selfoon skool toe bring, word dit op eie risiko gedoen.","Enige leerder kan dus, onderhewig aan die toelatingsvereistes, aansoek doen om tot die skool toegelaat te word.",0.47
+Die siekte word gekenmerk deur skielike vrektes en talle siek.,Die siekte word gekenmerk deur 'n skielike deegagtige geswel van die kop.,0.66
+Sodra ons u Orania Vakansieklub aansluiting vorm ontvang het sal ons vir u 'n kwotasie stuur.,Daarna sal ons u Orania Vakansieklub lidmaatskapskaartjie vir u in die pos stuur.,0.78
+Daar is steeds nie n deurbraak in die ondersoek na die moord nie.,Die polisie ondersoek ook die moord van n vermoedelik hawelose man.,0.62
+"Ek het nie kinders nie, maar sal daarvan hou om nou en dan kinders om my te he.",Donnalee ontvang die Tempo-toekenning vir Aktrise van die Jaar vir haar rol in hierdie film.,0.34
+"By normale weersomstandighede bly die twee deure heeltemaal oop, weggesteek in n dok langs die waterkant.","As daar n stormvloed opkom, sal die deure toegemaak word.",0.59
+"Jy kan vir mense gaan vra wat my ken, ek het n baie dinamiese persoonlikheid.",Vra vir n boer hoe hy voel as sy beeste se hakskeensenings afgekap is en brul van pyn.,0.31
+Immanuel Guest House is 'n sonderlinge gastehuis wat deur 'n gesin bestuur word in Warrenton.,"Die gastehuis word deur die eienaars bestuur en is geleë naby Jan Kempdorp, wat op die N18 is.",0.47
+G1 K1 is baie fiks en gesond en G4 K4 is heeltemal ongeskik vir diensplig.,"As die spons modderwater opgesuig het, sal modderwater die ruimte om hom besoedel.",0.12
+"Die verband tussen homiletiek, n literêr-estetiese homiletiek en die veranderende kultuur word deur die begrip inkulturasie gelê.","Ek het soos n prinses gevoel, en baie mense het gevra wie dit gemaak het.",0.16
+"Ek kon gelukkig n groot koei uitsoek, maar net toe ek skiet, het sy vorentoe beweeg.",Hy laai weer die kat en ry 'n ver ent weg.,0.28
+Hier is net 'n paar van die motors wat goed sal lyk in enige nuwe miljoenêr se motorhuis.,Die Maserati Ghibli het regtig tuis lyk in enige lotto wenners se nuwe motorhuis.,0.44
+Die geld word vir n langer tydperk teen n vaste rentekoers belê.,Die boom konfronteer ons ook met n toekomskeuse.,0.25
+Die verhouding van die aantal seuns tot die aantal meisies op die partytjie is 3:2.,Niemand ondersoek of die oorledene n onwettige in ons land is nie.,0.12
+Ons kort n nuwe bestel en minderheidsregte en selfbeskikking is van die belangrikste komponente in so n nuwe bedeling.,Suid Afrika het n nuwe bedeling nodig en selfbeskikking en minderheidsregte is belangrike komponente in so n nuwe bestel.,0.72
+Volg dit op met die tweede ry kolle in n ander kleur as die eerste ry.,"As jy wit as basis gebruik, maak kolle met n bleek kleur en omgekeerd.",0.53
+Ek was in my lewe nog nooit so omgekrap oor n vraestel nie.,Die mense wie jy verwys sal ook n koopbewys op hul eerste aankope kry.,0.16
+Sowat n uur daarna het Phillips glo om hulp geskreeu en Chauhan is kaal in die tent gesien.,Hy het by die tent gekom en gesien hoe nooddiensbeamptes in Phillips se tent vir Chauhan behandel.,0.53
+Boor n derde gat aan die teenoorgestelde kant van die tenk vir die lugpyp.,Teken in op Wêreldwyd se nuusbrief en ontvang n afslagkode vir Afrikaans is Lekker 2018  Kanada.,0.25
+"Maak die gewilde alternatief vir brood, vir n kosblik.","Die groente daarin maak dat dit sommer n dubbele doel, as groente en stysel dien.",0.47
+Een ou gelofie omtrent die volstruis is darem niks anders as n onbillike wolhaarstorie nie.,"Wanneer Vishuis voltooi is, kan dit n brug wees in die gemeenskap.",0.31
+Afrikaans was nog nooit n taal van die onderdrukker nie.,Dit was nog altyd n taal vir almal  dit is net jammer die onderdrukker het dit gebruik.,0.5
+Bedags werk ek by 'n plaaslike laerskool en saans verdwaal ek in 'n wêreld van storieskryf.,Ek werk steeds bedags by n plaaslike laerskool.,0.56
+Bloednier word ook gekenmerk deur die voorkoms van skielike vrektes en die feit dat siek skape seIde gesien word.,Die siekte word gekenmerk deur skielike vrektes en talle siek.,0.59
+Dat politieke partye deursigtig moet wees oor hul private finansiers sal andersins  oorwinning vir demokrasie in Suid-Afrika wees.,In beginsel is die probleem nie dat die finansiering van politieke partye deursigtig moet wees nie.,0.69
+Die ouers en grootouers het die ongeveinsde geloof instrumenteel oorgelewer.,"Herhaal met nog n laag bessies, neute en beskuitjies.",0.12
+Dit is heeltemal natuurlik vir ons om n vrees te hê vir verdrink.,Ek is immers n soogdier wat op land lewe en dus is ons ongemaklike vrees vir verdrink natuurlik.,0.78
+"Klik OK. En 'n dialoog verskyn om jou te vertel hoeveel duplikate verwyder is, sluit dit net.","En nou is al die duplikate verwyder, maar hou net een in die lys.",0.75
+Ons het toe die veralgemeende potensiaal gebruik om n gemodifiseerde weergawe van die Kac integraal vergelyking te bereken.,Ongelukkig kon ons nie die eiewaardes van die gemodifiseerde integraal vergelyking met ons gekose numeriese metode bereken nie.,0.72
+Gooi 'n lagie eiers oor die Miracle Whip.,Gooi nou 'n lagie fyn biltong oor die eiers.,0.47
+Dit kan uiteraard slegte nuus wees vir toeriste wat Parys binne die volgende paar dae of weke wil besoek.,"Tesame met hierdie voorsteller, moet jou aansoek ook deur n tweede OTWSA-lid gesekondeer word.",0.25
+Hierdie verskynsel word gewyt aan n enkel resessiewe geen.,Hierdie verskynsel word aan 'n enkele resessiewe geen toegeskryf.,0.91
+Die roete bied ook n lieflike uitsig oor die sandduine waarná jy via die ongerepte strand terugkeer.,Skroef twee 1000mmplanke op elke hoek van die kis vas.,0.28
+"Dit lyk nes die stewels wat ek aan het, dis net n goedkoper weergawe.","Omdat sy nogal klein en bekrompe is, lyk sy soos n pikkewyn.",0.31
+"Om verdruk te word, is een van die slegste dinge wat 'n mens kan oorkom.",Jy kan jou nie draai nie of jy loop jouself in nog 'n pynigende ondervinding vas.,0.38
+Die vraag kan gevra word wat die redes is waarom AfriForum die lys gepubliseer het.,Die vraag kan gevra word of mens nie bloot emosies opjaag deur die lys te publiseer nie.,0.72
+"Geneesmiddels wat in water oplosbaar is, dring moeilik deur die haarbloedvate van die brein.","Geneesmiddels wat in vet oplosbaar is, kan maklik deur hierdie versperring, bekend as die bloed-breinversperring, dring.",0.88
+Dié maklike meringue het n sagte tekstuur binne-in en is perfek met n suurlemoenvulsel en vars bessies.,"Sulke lammers word lewend gebore, maar kan nie loop of suip nie en vrek binne 'n paar dae.",0.19
+BY n hefboom van die eerste klas lê die steunpunt tussen die las en die krag.,"BY hierdie soort hefboom is die steunpunt en krag aan weerskante, met die las iewers tussenin.",0.66
+"Gemaak in die VSA in 'n GMP-gesertifiseerde vervaardigingsfasiliteit, kan hierdie bekostigbare swart cohosh-aanvulling 'n goeie opsie wees.","Dit is n kort, breë gesigvorm met n sterk kakebeen.",0.09
+"Ek druk toe n derde patroon in die kamer, weereens n 180gr AccuBond.","Toe gee ek hom n derde skoot, reg van voor af in die bors.",0.66
+"En of jy nou n Boer is of nie, jy is n teiken.","Ons is nou n etniese minderheid, slawe sonder n land van ons eie.",0.5
+"Genade, maar jy is n besige ou seuntjie.","Ja, jy is n besige seuntjie  maar van almal is jy die liefdevolste seuntjie ooit.",0.72
+"Mense wat begin oefen, se gesondheidsuitgawes daal met 14%.","In n gegewe tydperk is die risiko dat jy sterf, 69% minder vir mense wat oefen.",0.59
+"Hierdie komplikasie moet altyd in 'n ernstige lig gesien word, veral as die hele baarmoeder buite hang.","Al word daar hoe skoon gewerk binne die baarmoeder, is daar altyd kans vir infeksie.",0.78
+Hou medisyne op n plek waar jou baba dit nie in die hande kan kry nie.,Pak dit tydelik weg of sit dit op n plek waar dit deur ander meubels versper word.,0.62
+Roer die spek mengsel by die pasta en roer goed deur.,"Roer nou jou eier mengsel deur die warm pasta, weg van die plaat se hitte af.",0.62
+Somerset-Wes is n baie spesiale dorp met baie spesiale mense.,Kyk hoe het n paar mense die dorp rooi geverf vir Valentynsdag.,0.41
+"Wanneer die vis n slagoffer gehap het, is daar geen wegkomkans nie.","Wanneer n skool piranhas n skool kleiner visse teëkom, bevlieg hulle die groep.",0.5
+En hoe maklik of moeilik is dit om in die vreemde aan te pas?,"As jy items wat julle baie gebruik teen afslag koop, kan jy ook n paar rand spaar.",0.28
+"Moenie lasagne-velle op die boonste laag sit nie, maar eindig met omtrent n derde van die witsous.",Hierdie tyd in n mens se huwelik word gekenmerk deur optimisme en dankbaarheid.,0.22
+"As jy nie anders kan nie, gebruik n aan/af-spuit op jou tuinslang.","Die Volkswagen New Beetle is 'n kompakte motor, wat deur Volkswagen in 1997 vrygestel is.",0.22
+"Mense kan as individue aansoek doen, of as n groep.",Dalk word daardie vermoë tot meegevoel mettertyd deur selfbelang en hubris geërodeer.,0.47
+Nog twee insittendes is in n kritieke toestand terwyl drie ander mense slegs ligte beserings opgedoen het.,Slegs ligte beserings is tydens die ongeluk opgedoen.,0.59
+Net 'n dankie sê vir die wonderlike musiek wat jul verskaf het.,Wil net vir jul dankie sê vir 'n uitstekende dag.,0.59
+Die Noordwes-Universiteit wens alle ouers en studente n wonderlike feestyd en voorspoedige 2016 toe.,Soos in n sprokiesland staan die bome al met die paadjie langs tot onder in die groot pad.,0.38
+Die boom is ook n bevestiging van ons karakter.,Die firma moet jou n skriftelike uiteensetting van die kansellasiefooi gee.,0.19
+Dit is ideaal vir 'n gesin wat op soek is na gerieflike verblyf naby verskeie besienswaardighede op die Tuinroete.,Dié eenheid is ideaal vir 'n paartjie wat opsoek is na 'n gerieflike oorslaapplek naby verskeie geriewe en besienswaardighede.,0.53
+Of n gedeelde swart nasionalisme kan verval in gevegte tussen etniese groepe oor hulpbronne.,Tog is daar tekens dat daar reeds n tipe derde generasie swart nasionalisme aan die ontstaan is.,0.62
+Grond het n lang tradisie in SA en in die wêreld.,Vandag woon n geraamde 30% van die wêreld se bevolking in geboue van grond.,0.44
+Laat die swaard vinnig en ferm teen die vertikale naat in die rigting van die prop afgly.,Dit kan ook n impak op die Suid-Afrikaanse landbou hê.,0.28
+"Ds David Barnard, baie dankie vir die uitstekende werk wat jy gedoen het.","Ds Willem Sauer, jy is beslis n waardige en uitstekende opvolger vir David en al jul voorgangers.",0.66
+Soek al die woorde met n y klank en skryf dit in jou woordeboek.,Dit word gemaak deur 'n betroubare maatskappy en is glutenvry en bevat geen algemene allergene nie.,0.28
+"Die persoon is dikwels in hulle gedagtes in n ander wêreld, tot groot frustrasie van hulle lewensmaats.",Hierdie emosionele afgetrokkenheid is dikwels n poging om die angs en stres binne die persoon te beheer.,0.66
+In min wildreservate in Afrika word so baie fotos geneem soos in die Masai Mara in Kenia.,Die nasionale vlag van Kameroen is op 20 Mei 1975 amptelik in gebruik geneem.,0.31
+"Dié duimgids bied die gerief om kits toegang tot die funksies wat die meeste gebruik word, te bestuur.",Kinders en ouers het oorgenoeg tyd gehad om saam te wees en te gesels.,0.28
+Meganiese wastoestelle het in die 1800s hul verskyning in huise begin maak.,"En laastens, Velazquez self - en ver agter in die spieel is Koning Philip IV en die Koningin.",0.19
+"Een Britse neef bly nou in Mosambiek, n land wat ek wil besoek.","Die land wat ek seker wil besoek, is Kaap Verde.",0.44
+"Marius Joubert, bloedspatsel-deskundige verbonde aan die Suid-Afrikaanse polisiediens, sou aanvanklik Maandag in die hooggeregshof verskyn.","Hy sou aanvanklik verlede week getuig het, maar kon vanweë ongesteldheid nie in die getuiebank verskyn nie.",0.53
+Die keuse van die regte aanlyn sleutelwoord hulpmiddel vir Amazon soek optimalisering is 'n baie uitdagende taak.,Ek kan A Little Guesthouse met die grootste vertroue aanbeveel.,0.19
+Jy kan ook n koopbewys verdien vir elke vriend wat jy verwys en wat dan ietsie koop.,Hulle sal ook n koopbewys ontvang wat hulle op hulle eerste aankope kan gebruik.,0.72
+"Dit kan slegs 6 weke aaneen gebruik word, staak vir n maand en hervat.",Maak n afspraak met n vriendin vir jou volgende spin- of jogaklas.,0.38
+"Aan al die personeel en bestuur van Oori River Lodge, jul hardewerk sal altyd onthou word.",Jul plekkie sal altyd onthou word deur ons.,0.63
+Die watervlakke sal na verwagting ongewoon hoog bly vir die volgende paar dae of selfs weke.,"Behalwe vir Engeland, het sy ook al vir n jaar in Malawi dramaklasse aangebied.",0.22
+"As n mens wou, sou jy n wonderlike Freudiaanse analise kon doen van die hele gesinsdinamika.",Hý bring ons tot erkenning van en tot geloof in die gesag van die Skrif.,0.34
+Saai saad in die herfs en lente in komposryke grond wat goed losgemaak is.,Volgens berigte is sewe passasiers in die ongeluk beseer met een persoon in n ernstige toestand.,0.25
+"Om u finansiële inligting konfidensieel te hou, is vir ons n saak van erns.",Gebruik sommer ingemaakte lensies in  blik om die ete vinnig voor te berei.,0.16
+Roer oor lae hitte tot die suiker opgelos het.,As jy geld wil beskerm dan moet jy die geld daarvoor he.,0.25
+"Toegang tot die gemeenskap word deur volkome deelname in die dissipline, fasiliteer.","Die uitdagings wat doktorale studente ervaar terwyl hulle hul toegang tot die verskillende diskoersgemeenskappe verken, word beskryf.",0.41
+"In London trou sy met n Fransman, maar word ook deur hom in die steek gelaat.","Terwyl sy oorsee is, word haar ouers wreed in hul huis in Johannesburg tydens n rooftog vermoor.",0.41
+"Die verskoning wat aangevoer word dat dit kastig die vroue gelykstel aan die mans, is natuurlik onwaar.","Vroue is gelykwaardig aan mans, maar juis nou word daar nie erkenning aan hulle gegee nie.",0.66
+Die Pajero sn werk slegs wanneer jy die knop trek of druk.,Dit kan n transaksie maak of breek wanneer ek rondkyk om te koop.,0.25
+Jou optrede is dus n logiese uitvloeisel van hoe jy oor jouself voel.,"Dit is hoe jy oor jouself voel, wat jy oor jouself glo en wat jy van jouself verwag.",0.62
+Dit word gewoonlik gedoen oor n tydperk wat in die kontrak uitgestippel word.,"Dit het ook n sagte, vars geur soos dié van n roostuin in volle blom.",0.06
+Met daardie lang tong wat tot `n half meter uitgesteek kan word stroop hulle blare van bome.,Met daardie lang tong trek hulle ook tot doringtakke nader om die blare in sy bek in te trek.,0.97
+Boonop is sy nou op n sjieling ter beloning geregtig.,"Winkler, n afgetrede poskantoorwerker, gaan nou haar beloning kry.",0.5
+Daar is verskeie metodes waarop hierdie geld gebêre kan word sodat dit terselfdertyd ook n opbrengs verdien.,LekkeSlaap het wonderlike opsies vir akkommodasie in Tankwa-Karoo Nasionale Park.,0.16
+"Gooi nou sout, peper en kruie en speserye na smaak in.","Meng die sout, peper en speserye en strooi dit oor die vleis.",0.72
+Karla du Plessis is die jongste dogter van die Suid-Afrikaanse sanger en liedjieskrywer Koos du Plessis.,Koos du Plessis het die lied Karla oor haar gesing.,1.0
+Die katdoring of katstert (Asparagus setaceus) is n varingagtige rankplant in die genus Asparagus.,Die katdoring word dikwels as n tuin- of huisplant gegroei.,0.75
+"Die mens verwoord aktief sy verhouding met die wêreld wat hy verstaan, in taal.",Taal is die instrument waarmee die mens verwoord wat hy verstaan.,0.81
+Hierna het Schoeman met 'n reeks van vyf dele begin wat oor feitlik dieselfde tydperk in die geskiedenis handel.,Die vierde en vyfde bande sal handel oor die tydperk 1662-1712 in die geskiedenis van die Kaapkolonie.,0.66
+Die vliegdek word gebruik deur vliegtuie om te land en op te styg.,Die Palms Pub & Grill is ideaal vir Verjaarsdae of Korporatiewe funksies en bied 'n verskeidenheid spysenierings opsies.,0.31
+"Wanneer indool in die sel benodig word, word dit gewoonlik uit triptofaan gevorm deur die ensiem triptofanase.",Omdat ek hierdeur is weet ek hoe vining dit kan gebeur.,0.22
+Hierdie organiese goue vlasaadse is bekostigbaar en verkoop in groot hoeveelhede en het goeie kliënte resensies.,Hierdie bruin organiese vlasaadse voorsien 'n goeie hoeveelheid porsies per houer.,0.59
+Stel 'n vergelyking of 'n stel gelyktydige vergelykings ('n Wiskundige model) op om die onbekende te kry.,Wiskundige modellering is waar ons 'n vergelyking of 'n stel vergelykings opstel om 'n probleem wiskundig voor te stel.,0.78
+In jou vriend moet n mens sy beste vyand hê.,"Die deernis vir jou vriend berg homself onder n harde dop, daaraan moet jy probeer vasbyt.",0.66
+Watter stad is die verste wes geleë op die kaart?,Hierdie nuwe divisie is die agste in hierdie toekomsgerigte finansiële groep.,0.16
+"Gevolglik kon ouers die behoeftes, begeertes en persoonlikhede van hulle kinders leer ken.",Kinders het ook genoeg tyd en geleenthede gehad om hulle ouers goed te leer ken.,0.53
+"Daar is verskeie winkels, restaurante, besienswaardighede en doendinge in die omgewing.","Dit is binne maklike bereik vanaf die strand en verskeie winkels, dienste en restaurante.",0.78
+"Die maatskappyprofiel, 'n uiteensetting van die Senwes Groep en meer oor Senwes as handelsmerk.","Lees meer oor die Raad van Direkteure, die Uitvoerende Komitee en Senwes se korporatiewe beheer en volhoubaarheid.",0.44
+Hou die lyn dop en kap dadelik die oomblik dat die lyn beweeg.,Hou die stok in jou hand vas  dan kan jy dadelik kap die oomblik dat die vis byt.,0.84
+"As jy op vakansie is, moet liewer nie by plekke op Facebook in-check nie.","Daarna gooi jy 'n dun lagie, ongeveer 1cm, van die fyn hoendermis oor.",0.16
+Dit kan ietsie kleins soos oogkontak en n glimlag wees wanneer jy hom/haar by die skool optel.,Dit kan n drukkie of n sagte aanraking wees wanneer julle langs mekaar staan.,0.66
+Ek vertaan dat Lekker Kampplekke die reg het om vals inligting te verwyder.,Lekker Kampplekke het ook die reg om die inligting te gebruik en te redigeer.,0.91
+Smeer n laag karamelmengsel oor en maak gelyk.,Bedek weer met 'n lagie koerantpapier en 'n klein bietjie water.,0.47
+"Dit bevat egter nie vitamien K2 nie, en dit sluit onnodige vullers in.","Sampioene se natuurlike sout smaak, ook bekend as umami, is perfek vir n bolaag.",0.31
+Dis nog beter om dit n regte egte Afrikaanse prenteboek te maak.,Dié hoender moet vir minstens n dag of twee marineer.,0.19
+"Kook pampoen wat in blokkies gesny is tot gaar, maar steeds ferm.","Wanneer ek pampoen kook, kook ek van die pampoen gaar en maak dit fyn.",0.72
+Lealiifano het strafskop vroeg in tweede helfte oorgeskop toe Louw by die afbreekpunt oortree het: 16-9.,Steyn en Lealiifano het daarna beide n strafdoel deur die pale gejaag: 19-12.,0.69
+Weet julle hoe vining so n ongeluk gebeur al is jy hoe versigtig.,Hulle beleef n onvergeetlike avontuur en natuurlik kry die professor sy derde horing.,0.28
+Bevolkingsverspreiding beskryf die manier waarop mense oor die wêreld se oppervlak versprei is.,"Die manier hoe mense oor 'n gebied versprei is, word bevolkingsverspreiding genoem.",0.97
+Skakels na verwant inligting word vir u gerief hier gelys.,Vir u gerief word hier 'n paar skakels na ander Universiteite se Argiewe en Biblioteke met Spesiale Versamelings gelys.,0.62
+"Terwyl die wolk digter word, kan n deel van die gas om die wolk begin draai.","Namate die rotatiesnelheid vergroot, plat die gas af tot dit n skyf vorm.",0.53
+Hierdie artikel handel oor 'n onderdeel van 'n skip of boot.,Die kiel is 'n belangrike onderdeel in die konstruksie van 'n skip of boot.,0.56
+As polisie man weet jy mos wat jou wapen stans moet wees.,"Hulle moet mos weet die verdagte was n gewese polisieman, dus gaan jy ekstra versigtig wees.",0.56
+"As n kind dus buite se huis onderwys ontvang, is hy nie in tuisonderwys nie.",Druk die uitgeskepte aartappel met n vurk fyn en meng met die vulsel.,0.12
+Eduard het skuins agter die bokke inbeweeg terwyl ek versigtig wind-op na links beweeg het.,"Ek dink die ANC wil nie die Midvaal-munisipaliteit, wat onder DA bestuur val, ophef nie.",0.06
+Spaargeld kan ook in n vaste deposito belê word.,"Hoe droër die lug (lae relatiewe humiditeit), hoe koeler sal die natboltemperatuur wees.",0.25
+"Op hul spaar rekeninge, bied Echo Bank 'n rentekoers van 18% nominaal wat maandeliks betaal word.","Hy is aangehaal word 'n nominale rentekoers van 7,2% per jaar maandeliks saamgestel.",0.41
+Die Magrieta Prinsloo word deur die skool in bewaring geneem en die skool word tot Hoërskool Cillié verdoop.,Skool se leerdergetal klim verby 900 en Cillié word die grootste hoërskool in die voormalige Kaapprovinsie.,0.59
+Laat jou maat die kat se kop ferm vashou en dwing sy bek oop met n hout liniaal.,Suig die pil met n strooitjie op en forseer die blerrie kat se bek oop.,0.84
+Dit is n goeie tyd om jou talente ten toon te stel.,"Met dié dat die behulpsame Jupiter in jou teken is, is dit n goeie tyd vir groei.",0.41
+Die status van die swartvlerkkorhaan (Afrotis afra) word amptelik as kwesbaar beskryf.,Dit is belangrik dat die swartvlerkkorhaan van die witvlerkkorhaan (A. afraoides) onderskei word.,0.66
+Bedek dit met n klam doek en laat dit vir twee uur rys tot dit goed uitgerys is.,Bedek met kleefplastiek en laat staan dit op n warm plek om te rys.,0.53
+Nog 'n sterk vitamien B-3 aanvulling gemaak deur 'n maatskappy met 'n uitstekende reputasie.,Dit is baie goeie niacinpille wat deur 'n maatskappy met 'n goeie reputasie gemaak word.,0.72
+Standard Bank sê dit is n aanduiding oor hoe traag die plaaslike residensiële eiendomsmark is.,Die bank sê hy het n beduidende toename van 31% in nuwe rekeninge gesien.,0.44
+Haak dus julle sn en sit af na die naaste kampeerterrein.,Bepreek dus vir julle plek by n oornag-spa.,0.41
+"Indien jy Beaulieu (Witpoort) besoek en jy benodig akkommodasie, is jy op die regte plek.",Die lengte van die reghoek is 17 cm meer as die wydte.,0.09
+Dit is ongeveer 300 bykomende kalorieë en 25 gram koolhidrate.,Doen dit vier keer 'n week en jy sal 1200 bykomende kalorieë en 100 gram koolhidrate kry.,0.66
+"Kreatiwiteit en harde werk is n klassieke kombinasie, terwyl jy met n opwindende projek vooruitgang maak.",Deur die eeue heen het daar op hierdie manier 'n baie dik laag diatoomgrond op die seebodem gevorm.,0.19
+Ek het dan ook langtand begin lees aan die bundel Nuwe stemme 5.,Die bundel Nuwe Stemme 5 het my egter aangenaam verras en ek kan dit beslis aanbeveel.,0.81
+Ons Hemelse Vader eer Sy woord bo Sy naam.,Sy naam is die naam bo alle name en daarom sal Hy Sy woord eer in jou lewe.,0.81
+"Vir jare daarna, wanneer jy verby Ant Lemoentjie se huis stap kon jy Jim Reeves hoor sing.",In Duitsland is daar pienk Taxies net vir vroue.,0.16
+Die groot kothuis het slaapplek vir tot 8 gaste.,Die kleiner kothuis het slaapplek vir tot 2 gaste.,0.72
+"Trouens, hulle gebruik die uiterlike vorms van dit wat hulle skilder slegs as n leidraad.",Hou dus jou afstand en beweeg dadelik versigtig weg.,0.16
+In die agtertoe-kykspieëltjie kon ek sien hoe haar eggenoot se gesig opblaas en verrooi.,In die agtertoe-kykspieëltjie kon ek bemerk hoe haar man se gesig opblaas en verblou.,0.62
+Skep driekwart van die sampioenmengsel op die pap en strooi n hand vol kaas bo-oor.,Strooi die res van die kaas bo-oor en besprinkel met n klein bietjie olyfolie.,0.81
+Hy het glo van n vriend se huis af teruggekeer en nie besef hy ry te vinnig nie.,Jy kan 1 Mannetjie met 2 wyfies of 'n trio wat 2 Mannetjies en 3 wyfies is.,0.09
+Hans Linde en sy gesin van Wellington tref die reëlings.,"Die stootwaentjie wat op oom Manuel se stoep gestaan het, het hulle soos n magneet aangetrek.",0.12
+"Indien n effektiewe skoot nie ingekry kon word nie, sou ons die wild skei van die klikbek-streepdonkie.","Toe hulle bewus raak van Eduard se teenwoordigheid, word n galopdans in my rigting uitgevoer.",0.31
+"Wat is nou mooier as n slaai versier met kappertjies, of ysblokkies met gesiggies daarin?",Wie ken nou nie kappertjies met hul vrolike oranje en geel blommetjies wat n oorvloed kleur verskaf nie?,0.5
+"Dit was gelees en geskryf deur Jaco Kirsten, en die skets was gedoen deur Fred Mouton.","Dit is geskryf en gelees deur Toast Coetzer, skets deur Fred Mouton.",0.62
+Geen betroubare korrelasie kon op enige wyse gevind word tussen skouerhoogte en groei soos getoon in Figuur 12.,Figuur 12 is saamgestel deur groei van laag na hoog te plaas en ooreenstemmende skouerhoogte te plot.,0.81
+"Nog n soort is die Trots-van- de-Kaap (Bauhinia galpinii), baie mooi oranjekleurige blomme!","Met die nagenoeg R5 miljoen wat in die aftreefondse oorbly, koop hy n lewende annuïteit.",0.19
+Verwittig u in watter sessie die betrokke vak geskryf word.,Handboeke word ingeneem op die dag wat die betrokke vak geskryf word.,0.53
+"Dis baie gerieflik, skoon en netjies met alles wat jy nodig het.","Skoon, netjies en alles in 'n werkende toestand.",0.75
+"Die beste manier om n gewrig te laat rus, is om spalke of afgietsels te gebruik.","Dit is baie doeltreffend, want n groot dosis kan op hierdie manier toegedien word.",0.28
+Dit is n ongelooflike nice lens en sal more een koop as hy nie so duur was nie.,As ek weer moet koop sal ek egter die 16mm fisheye koop wat n fullframe lens is.,0.56
+LW: U werk word anoniem aan die beoordelaars voorgelê.,"Hoe kan jy die ellende van n nare, nat hoes laat wyk?",0.22
+Die woord word gebruik om die Hebreeuse woord vir eer of heerlikheid te vertaal.,Laste en moeilikhede word met n ander Griekse woord vertaal.,0.5
+Hierdie boek bevat ses verstommende ware heldeverhale: Hierdie reeks is die perfekte wegspringplek vir beginnerlesers.,Boonop het die toegang tot infrastruktuur en dienste soos water en sanitasie 'n direkte invloed op gesondheid.,0.22
+Effekte word deur die regering en groot maatskappye uitgereik as hulle geld wil leen.,"Effekte wat deur die staat uitgereik word, is seker die veiligste.",0.59
+Stuur die kinders uit op n ontdekkingstog in julle huis of na die naaste parkie.,Spreek n goeie tyd af en laat die kinders iets vir Pa of Ma se kantoor maak.,0.56
+"In hierdie vertoning, Nokturne, sing hy die musiek van Koos du Plessis.","Die musiek van Koos du Plessis het Mathys, met sy donker fluweelstem, soos n handskoen gepas.",0.69
+"Troeteldiere in n hok is veral kwesbaar vir hitte, want hulle kan nie daarvan ontsnap nie.",Kyk na die volgende foto's van organismes in hulle omgewings.,0.53
+Dié hoender moet vir minstens n dag of twee marineer.,"Enige gaar hoender wat oorbly, is heerlik in n koue slaai of n hoender-en-mayonnaisetoebroodjie.",0.78
+"Organismes vorm die biotiese, of lewende deel van die omgewing.","Dinge soos rotse en sonskyn is deel van die abiotiese, of nie-lewende omgewing.",0.75
+"Die magnetiese veld kan veroorsaak word deur magnete, elektromagnete en elektriese strome.","Rondom 'n geleidende draad waardeur 'n elektriese stroom vloei, word 'n magnetiese veld opgewek.",0.78
+Venus beweeg tot 16 November agteruit deur jou beroepsone.,"Venus, die plesierplaneet, beweeg die volgende sewe dae agteruit deur jou reissone.",0.75
+Ons leer immers ons kinders n rein liggaam is die naaste aan n rein hart.,Net so is n skoon omgewing die naaste aan n skoon hart.,0.69
+Ek verstaan hoekom ons Hemelse Vader n vrou geskape het en hoe sy n man se lewe voltooi.,"Ek verstaan ook hoe n man sy vrou moet lief he, en sy lewe vir haar afle.",0.66
+Donnalee ontvang by hierdie toekennings ook die prys vir Aktrise van die Jaar vir haar hoofrol as Amory.,Deel vir elke leerder n skoon vel papier uit.,0.19
+Daar is verskeie metodes waarop hierdie geld gebêre kan word sodat dit terselfdertyd ook n opbrengs verdien.,"Dit kan by finansiële instellings in n spaarrekening gebêre word, waar dit rente verdien vir die eienaar.",0.62
+Die Trust sal vooraf bystand gee vir mense uit die gemeenskap wat n aansoek wil indien.,Dekor word met die hand uitgesoek om by n tema van n partytjie te pas.,0.31
+"Ons moedig ons ouers, asook ons onderwysers aan, om met hul kinders te gesels oor aanlynveiligheid.",Daarbenewens kan 'n geneesmiddel die effek van 'n ander geneesmiddel versterk of teenwerk.,0.28
+"Hy word n seerower wat skatte jag, of n ruimteman oppad na die maan.",Sy word n Feëprinses met towerkragte of n hondeaftrigter in die sirkus.,0.62
+Alternatiewelik kan dit ook veroorsaak word deur sekere kossoorte.,"Dit word gewoonlik veroorsaak deur voedsel, maar kan ook die gevolg wees van medikasie.",0.66
+"Ons ry tussen die berge, deur klowe en oor bruggies langs die pad wat deur die boerderygebiede gaan.","Eers ry ons deur en oor Fontein kloof en dan Longhoogte, en Perdenek.",0.72
+Hierdie boekie probeer n beknopte weergawe oor hierdie seminare weergee.,Die volledige verslag sal ook aan die werkgroep beskikbaar gestel word vir bespreking tydens 'n volgende vergadering.,0.47
+"Die hart is n aanduiding van ons ritmes, hoe die lewensbloed deur ons vloei.",Ek het probeer dink hoe iets soos hartseer deur n metafories oorplanting genees sou kon word.,0.41
+"Geniet jou rus, en neem n paar fotos net vir jouself.","Die kragte wat deur die kristallisasie, herkristallisasie, akkumulasie, dehidrasie en herhidrasie van soute veroorsaak word.",0.16
+Die Afslaer dra alleenlik kennis van die toestand van die goedere soos wat geopenbaar is.,Die afslaer dra nie enige verdere kennis anders as soos hierin uiteengesit nie.,0.69
+"Daar was 'n 2-deur en 4-deur sedan, 2-deur koepee en 'n stasiewa beskikbaar.",Die sedan was as 'n 2- en 4-deur en die stasiewa as 'n 3- en 5-deur beskikbaar.,0.72
+Oom Gert is waar die rokers bymekaarkom voor klas vir n vinnige ontbyt.,Oom Gert is waar landboustudente ná n bemarkingsdag n hamburger en Coke geniet.,0.59
+Sy is ook n nasionaal geakkrediteerde veldwagter-instrukteur en assesseerder.,SEAN PATTRICK is n geakkrediteerde Theta/FGASA veldwagter-instrukteur en assesseerder.,0.62
+Kook vir slegs n paar oomblikke sodat die sampioene nog hard is.,Kook n paar oomblikke terwyl jy roer totdat die vloeistof begin verdik.,0.5
+Ek stem saam hy moes net n goeie pakslae gekry het.,"Waar brommeraanvalle voorgekom het, is soveel moontlik van die maaiers verwyder en die wond met 'n brommermiddel behandel.",0.19
+"Ek skryf net oor dinge wat my interesseer, oor artikels wat ek in Engelse gelees het.",Die afslagprys word in geval van 'n spesiale aanbod vertoon.,0.31
+Die verskeie elemente wat bygedra het tot die (vorming van die) struktuur van jazz word behandel.,"Die (noodsaaklike en opsionele) musiekinstrumente wat in jazz groepe aangetref word, word behandel.",0.78
+En hier is n vraag: Wanneer laas het jy n kompliment gegee?,Ek sou verseker nie n goeie tuisblyma wees nie.,0.31
+Daarom is daar n spraakmakende nuwe tegniek ontwikkel.,Laat die pasient plat lê met die ledemaat wat gepik is effens hoër as die res van die liggaam.,0.44
+Die stene word gelê met hul kante na die buitekant van die rigplank toe maar nie vas daarteen nie.,"Al die ander stene word dan met hul bopunte na hierdie merk, toe gelê.",0.78
+Neem dan die persoon na n hospitaal sodat n entstof teen hondsdolheid toegedien kan word.,"Jy is n eindelose inspirasie, verseker nie net as fotograaf nie.",0.19
+Sy moet baie lief wees vir kook want ek is ook lief vir kook.,Sy moet uitnemende geaardheid he en ook lief wees vir mense.,0.66
+Die mate van verstaanbaarheid hang tot n mate saam met die soort van assosiatiewe denke van die leser.,"Moeilik of maklik, tradisioneel of eksperimenteel, poësie speel tot n mate altyd met die onsegbare.",0.44
+Jankelow het ook in 2016 n derde plek in die SACEE-kompetisie behaal.,"Hy het laas jaar aan die skoledebatkompetisie in Bratislava, Slowakye, deelgeneem en n 25ste plek behaal.",0.5
+"Deur die vleis apart te soteer, kan enige oortollige vet ook maklik afgeskink word.","As die bredie die vorige dag berei is, kan nog vet maklik afgeskep word soos die bredie afkoel.",0.75
+Jy is soort van verlore en moet die korrekte en akkurate rigting leer ken.,Die outomatiese lig meter gee lesing maar neem jy jou foto is dit altyd oorbelig of onder onderbelig.,0.31
+Megan Stemmet verwerf n pryswennerssertifikaat vir die beste prestasie in die 13-jarige ouderdomsgroep in die afdeling vir blokfluit.,Derik Nortjé verwerf n pryswennerssertifikaat vir die beste prestasie in die 14-jarige ouderdomsgroep in die afdeling vir blokfluit.,0.91
+"Die Cortina met Mike, Enoch en Phillip is agterna.","Enoch, met die vuurwapen, en Phillip spring onmiddellik uit die Cortina.",0.78
+Elektriese strykysters het in die laat 1800s op die mark verskyn.,Die jaarlikse Suid-Afrikaanse Jongwynskou word al sedert 1833 aangebied en is die oudste wynskou in Suid-Afrika.,0.25
+Pak die wiggies in n enkellaag bo-op en drup die res van die olie oor.,Vir afronding: Pak die wiggies op n opdienbord.,0.56
+So lyk die gesig van iemand wat niks voel vir n ander se lewe.,Ook dat jy niks weet wat in n ander se kop aangaan nie .,0.44
+"Lepels word ook by die disbeplanning gebruik wanneer daar gemeet, gemeng en geroer word.","Hy kon nie die weermag kritiseer nie, want dan het die sensors die film verbied.",0.06
+Washington DC is n stad vir stappers.,Vergelyk in hierdie verband ook Wiegand en Gouws (2013:76).,0.19
+Soms sonder dat familie dit bedoel maak hulle dit makliker vir hul geliefde om dwelms te gebruik.,In so n mate maak jy dit eintlik makliker vir jou geliefde om dwelms te gebruik.,0.78
+"Ek is 'n baie aangename, betroubare vrou met 'n baie goeie sin vir humor.","Iemand wat aangenaam is met 'n goeie sin vir humor, intelligent en moet goed kan gesels.",0.47
+Ek het dadelik n veearts in Burgersfort geskakel.,Later die middag het ons die hondjie na n ander veearts in Burgersfort geneem.,0.72
+Ek maak van hul dienste gebruik en ek kyk nie een oomblik terug nie.,Soveel ander Suid-Afrikaanse skrywers maak van hul dienste gebruik en jy kan ook.,0.5
+"Geen respek vir n vrou nie, net homself.","Talle bejaardes, gestremdes en ander maatskaplike gevalle in die Suid-Afrikaanse Polisie Diens word deur die skenkings gehelp.",0.22
+"Pluk dus net hier en daar n groenteblom, of as jy te veel het.",Kamp Nakuphi bied verskillende kursusse aan waaruit Verkenners kan kies.,0.12
+Alle wysigings tot hierdie beleid oor die beskerming van privaatheid sal op die Senwes webtuiste gepubliseer word.,Vra n boer se geliefdes en werkers oor hul onnoembare pyn as hy gemartel en doodgeskiet word.,0.34
+"As die verkoper nie n verband het nie, sal daar nie n verbandkansellasie wees nie.",Daar kan met sekerheid aangeneem word dat veld brand nie van parasiete ontslae raak nie!,0.34
+"As die vorm nie onderteken is nie, kan die kinders nie op die rit geneem word nie.","Die buite lewe bied soveel plesier, en mooi goed as mens net eers wil rond kyk.",0.44
+Of gebruik n Franse manikuurstrokie om jou naels af te skort en verf dan die punte.,Verf jou naels n effekleur van jou keuse.,0.56
+Jy kan dan gewoonlik ook die diens op kort kennisgewing kanselleer.,"Dit beteken egter ook dat jou regte om die kontrak op kort kennisgewing te kanselleer, verander.",0.62
+Geen afbeelding mag as 'n handelsmerk of diensmerk gebruik word nie.,Geen afbeelding mag vir onwettige doeleindes gebruik word nie.,0.59
+"Die lammers word sonder ore en met 'n gesplete verhemelte lewend gebore, maar vrek kort daarna.",Ons beste wense aan julle en ons hoop julle kom maak binnekort weer hier 'n draai.,0.16
+"As plantluise n probleem is, spuit met seepwater of vee dit af met n klam doek.","Treine word gebruik om mense, diere en goedere te vervoer.",0.28
+Nog nooit het die bra bo-op daai leer n blik verf op my kop laat val nie.,In sekere lande mag mense met epilepsie nie 'n motor bestuur nie.,0.22
+In die Eerste Wêreldoorlog is hy n dokter in die Kanadese leër.,In die Tweede Wêreldoorlog sluit Banting hom as n majoor by die Kanadese leër aan.,0.62
+Nuwe seisoene eksklusief beskikbaar vir Showmax se internasionale intekenare.,Showmax se internasionale intekenare kry eksklusiewe toegang tot nuwe seisoene van Op pad met Dana.,0.8
+Die Suid-Afrikaanse Akademie vir Wetenskap en Kuns wag nominasies in vir die Jan H. Maraisprys vir 2019.,Die Raad van die Suid-Afrikaanse Akademie vir Wetenskap en Kuns het op die volgende bekronings vir 2016 besluit.,0.69
+Dit maak ook maklik skoon en is te kry in n verskeidenheid kleure.,"Hou ook n stofsuier byderhand as jy gaan skuur, en maak seker die area is goed geventileer.",0.53
+Dis n vreeslike mooi dorpie  mooi ou geboue en baie rustig.,Ek kan nie help om te lag oor jou kaggelkakkies nie  dis so n raak beskrywing.,0.12
+Hierdie boekie probeer n beknopte weergawe oor hierdie seminare weergee.,"Ons ry oor die Hemel-en-Aarde pas, en later ook oor die Shaws Mountain Pass voordat ons Caledon bereik.",0.16
+Die vlag van Sint Bartolomeus is n nie-amptelike vlag van die Franse oorsese gebied.,Die vlag vertoon die wapen van Sint Bartolomeus op n wit agtergrond.,0.78
+Die ruimtelike profiel of energie intensiteitprofiel van die bundel het ook 'n invloed op die proses.,Verder het die multimode bundel ook nie 'n uniforme energie intensiteitprofiel nie.,0.81
+"Die robot reageer wanneer jou kat nader kom en slaan op die vlug, nes n regte muis.","Wanneer jy lus het, kan jy Mousr beheer met behulp van n toepassing op jou slimfoon.",0.56
+Ek sal Obesa Lodge enige tyd aan enigiemand aanbeveel.,"BY hierdie soort hefboom is die steunpunt en krag aan weerskante, met die las iewers tussenin.",0.16
+Hulle parte is ontsettend duur en jy kan net deur Nissan bestel.,Hulle parte is nog duurder en jy kan net deur Mercedes bestel.,0.53
+"Vir sy aangrypende lewensverhaal het André P. Brink die titel, n Vurk in die pad, gekies.","Jan en Shireen, julle het by n vurk gekom en gekies.",0.19
+"Nou sien, dit is nou n saak wat sal kwalifiseer vir die doodstraf.",Begin 2008 doen hy dit weer; elke vier jaar vervang hy sy motor met n nuwe.,0.28
+"En dan word die plaaslike X-klas ook standaard toegerus met n sleepstang, waswaaibeheer en n trukamera.","Die X-klas het glad nie gesukkel nie, ondanks die banddruk wat n bietjie hoog was vir veldry.",0.75
+"Daarbenewens geld ook die vraag wat syfers soos genoem, vir die massas beteken.","Want as hy te los (of styf) is, dan moet hy mos altyd skree.",0.31
+"Amerika word jaarliks geteister deur grootskaalse natuurrampe soos Tornados,aardbewings en orkane.","Lande in Asië, soos Nepal, word ook dikwels getref deur groot aarbewings en tsunamis.",0.78
+Ook moet hul skryf waar hul die opgrawing gedoen het en teken wat hul gevind het.,In die eerste teken bladsy het hul geteken wat hul in die eerste harde opgrawing gevind het.,0.56
+"Gee 'n ander definisie wat dieselfde vierhoek as die vierhoek waaraan Anna dink, sal beskryf.",Verander Raoul se definisie sodat dit dieselfde vierhoek as Anna se definisie beskryf.,0.56
+"Prysgeld vir die 10 km is R250, R150 en R100 vir die eerste drie plekke.","Daarom gaan jy n meester word van met die minste klaarkom, tent opslaan en vuurmaak.",0.28
+Swartes wat deur blankes onderdruk word  ja daar is n storie  hoofberigte wereld wyd.,"Blankes wat deur swartes vermoor word, nee wat, die wêreld is min gepla.",0.69
+Volgens die voorlopige verslag was die medevlieënier se buitelandse vlieglisensie ook nie geldig vir die betrokke vliegtuig nie.,Sy buitelandse vlieglisensie was glo geldig vir n enkel-enjin vliegtuig terwyl die rampvliegtuig twee enjins gehad het.,0.75
+Hoeveel keer per dag eet jy neute net omdat hulle gesond is?,Hoeveel keer eet jy minder omdat jy so hard oefen?,0.66
+"Detensiebrief, sowel as slegte nuus brief, word aan die leerder se ouers gestuur.",Kennisgewing van die verhoor moet aan die ouers gestuur word via die leerder of die pos.,0.63
+As jy geld wil maak dan moet jy dit as n wegspring besit.,"Dié hotel lê aan die Weskus van Suid-Afrika in die pragtige vissersdorpie Paternoster, 145 km noord vanaf Kaapstad.",0.22
+Die Solidariteit Beweging is vanjaar 110 jaar oud.,Vir die Solidariteit Beweging is dit nou belangrik om die boublokke in te messel vir die volgende 110 jaar.,0.72
+"Hulle is deur die vroeër, gevestigde bevolking (die Boere) as n bedreiging beskou.",Kruger het verklaar dat die uitlanders as n integrale deel van die bevolking beskou sou word.,0.34
+"Baie voorwerpe laat wel n hoeveelheid lig deur, maar is nie deursigtig nie.",Versamel droë saadkoppe aan die einde van die seisoen en skud die saadjies uit in n papiersak.,0.38
+Lokasie is 'n ou woord wat in die konteks van apartheid gebruik is.,Die woord lokasie kan glad nie in die moderne konteks gebruik word nie.,0.75
+"My kind van 6 jaar, se stoel is groot en kan verstel word soos sy ouer word.","Selfde met my seuntjie van 4 jaar, soos hy ouer word, sal ons sy stoeltjie ook aanpas.",0.56
+Dieselfde geld vir n vergoedende reistoelae.,Hou 'n afstand van minstens 3-5 m van hierdie slange af en beweeg dan versigtig weg.,0.12
+Die mengsel word dan deur 'n nikkel-katalisator in koolstofmonoksied en waterstof geskei.,Die koolstofdioksied kan deur absorpsie in oplossings uit die gasmengsels onttrek word en waterstof bly dan oor.,0.66
+Dit is vir ons heerlik om sulke positiewe gaste soos julle te ontvang.,Dit is vir ons heerlik om hierdie pragtige natuur met gaste soos julle te kan deel.,0.88
+"Suid-Afrika is n daaglikse toneel van verskeurdheid, onversetlikheid en rassehaat.","Suid-Afrika is kwansuis nie-rassig, 'n teenstrydige begrip en n leuen wat vir die waarheid verkoop word.",0.72
+"Want van die 170 manne wat saam met Da Gama uitgevaar het, lewe nog slegs n derde.",Soos kinders wat hul pa respekteer en sy goeie naam in die wêreld wil eer aandoen.,0.34
+"Nelson Mandela aan die spits, het die deure van n eens geslote en vyandige wêreld weer geopen.","Jacob Zuma aan die spits, lyk dít alles na n ster wat verskiet het.",0.66
+"Wanneer 'n mens egter beweer dat sy werk bloot tradisioneel is, word tradisie in 'n negatiewe sin gebruik.",Elektriese ketels het laat in die 1800s hul verskyning gemaak.,0.31
+Regrow Seldery - Seldery is 'n soort groente wat van die basis van groente herplant kan word.,Regrow Bok Choy - Dit is 'n groente wat ook kan groei soos seldery.,0.66
+In April 2000 vier die skool sy 30-jarige bestaansjaar op gesellige wyse.,Revue 2000 word in Oktober 2000 op die planke gebring om die 30-jarige bestaansjaar te vier.,0.72
+Die Beandra is die regte keuse vir daardie geleentheid waar jy op jou beste wil voel en lyk.,Van 'n troue of selfs strooimeisie tot enige ander geleentheid waar jy op jou beste wil voel en lyk!,0.53
+Ek gooi altyd eers n klein stukkie deeg in olie.,Dan moet n skeppie deeg uitgeskep word en in die olie gegooi word.,0.75
+"Hoe, dink jy, is die pikkewyn aangepas om in water te swem?","Hoe, dink jy, is die arend aangepas om te vlieg en sy prooi te vang?",0.59
+Radio Laeveld het op 1 Maart 2003 vir die eerste keer 'n vier jaar Gemeenskap Uitsaailisensie ontvang.,Op 31 Mei 2003 word daar vir die eerste keer op die Radio Laeveld-senders uitgesaai.,0.53
+"Irma Joubert is n uiters bekwame skrywer, nee, dalk eerder n towenaar.",Irma Joubert verdien waaragtig n pluimpie vir haar hoed.,0.75
+Marí Hudson gesels met n chirurg van die Tygerberg Hospitaal oor dié kwessies.,Marí Hudson gesels met n endokrinoloog oor die jongste inligting.,0.81
+Die bekendste lid van die genus is die graangewas rog (Secale cereale).,Omkring woorde met n y klank en skryf hul le neer.,0.16
+Benoud soos n tandmuis wat in n army boot loop staan en val het.,Dit is 'n goeie swart cohosh-aanvulling op die mark vir 'n bekostigbare prys.,0.16
+"Gooi n bietjie water by, indien nodig.",Dalk ontbreek daardie vermoë tot meegevoel in sy psige.,0.31
+Ek sien toe dinge is nie lekker nie: hierdie ouens is op `n mission.,Die polisie het al glo `n ruk hierdie ouens ge-suspect.,0.59
+Hondsdolheid is n potensieel dodelike siekte wat versprei word deur die speeksel van besmette diere.,Neem dan die persoon na n hospitaal sodat n entstof teen hondsdolheid toegedien kan word.,0.94
+Sit n paar sampioen-kebabs daarby en jy het n smullekker ete.,Met n paar basiese bestanddele kan n smullekker en vinnige aandete met min moeite voorberei word.,0.47
+"Talle hidrate kan as X·nH2O geskryf word, maar binne hulle struktuur het die watermolekule ander spesies gevorm.","Hulle stoigiometrie kan as Cn·nH2O geskryf word, maar in werkelikheid bevat hulle geen watermolekule nie.",0.66
+"Hy het die inbreker wat deur die gebreekte ruit na buite gevlug het, agterna gesit.",Tans is dit die enigste verklarende Afrikaanse woordeboek wat op n selfoon beskikbaar is.,0.31
+Die meeste soorte melk het 45 - 60 kalorieë en 4.7 - 5.0 gram koolhidrate per 100 ml.,"Byvoorbeeld, rou amandels bevat 675 kalorieë per 100 gram.",0.66
+"Wanneer die elektron opgewek word, beweeg die elektron na 'n hoër energiepotensiaal/orbitaal.",Oom Gert is waarheen studente gaan vir n bier ná n moeilike eksamen.,0.16
+"Villa with a View het 2 ligte, sonnige kamers.","Die maklikste manier om jou reis te beplan, is deur 'n Bangalore Ooty Kodaikanal Tour-pakket te kies.",0.34
+Elke lees en uitleg van n teks is ook die produk van n bepaalde tyd en konteks.,Theodorus is ook radikaal deur sy tydsgees gevorm en daarom was n historiese lees vir hom belangrik.,0.22
+Ek sien Gordhan wil nou die SAA skoonmaak en eis die korruptes moet die geld terug betaal?,"Waarom eis hulle altyd net die geld moet terug betaal word, maar selfs dit gebeur nie.",0.53
+Daarbenewens word dit ook teen 'n goeie prys aangebied.,"Al die bestanddele is organies, en hulle word teen 'n goeie prys aangebied.",0.44
+"Dis n vegetariese ete en lekker lig, maar steeds vullend.","Hy wag en kyk en wag nog n bietjie terwyl sy hart boems, boems, boems klop.",0.38
+Saag nou die geut af sodat die water binne-in die emmer sal loop.,"Dit is ongelooflike mooi, dit lyk soos n DKNY advertensie.",0.19
+Bedek daarna die koerant met 'n lagie blare en maak weer effens nat.,Bedek weer eens met 'n lagie koerantpapier en maak bietjie nat.,0.75
+Die Palms Pub & Grill is 'n kuierplek vir die hele familie.,Stuur n e-pos na wereldwyd@afriforum.co.za om jou afslagkode te ontvang.,0.12
+Maak saam n lys van alles wat die kinders vir die nuwe skooljaar nodig het.,Spreek n goeie tyd af en laat die kinders iets vir Pa of Ma se kantoor maak.,0.59
+Giet die suurlemoensap en 30 ml (2 e) van die water by.,Pols tot die deeg begin saamkleef (giet nog n bietjie water by indien nodig).,0.53
+King se dood n halfeeu gelede word vandeesweek wyd in die VSA  en trouens wêreldwyd  herdenk.,Daarom is daar n spraakmakende nuwe tegniek ontwikkel.,0.16
+Ek het stil bly sit agter n rosyntjie-bos terwyl Eduard weer onder die wind terug beweeg het.,Die persentasieverskil in genetiese meriete is dan 200(Xs  Xc)/(2Xc  Xs).,0.22
+"Jy raak, met ander woorde, prakties betrokke by die skep van hoop.","Negatiwiteit skep sy eie momentum, dit raak aansteeklik en vernietig hoop.",0.59
+Die Botaniese Tuin verwelkom navrae van navorsers wat die versamelings en/of die Tuin vir navorsingsdoeleindes wil gebruik.,Onthou: Inskrywings word anoniem aan die keurders voorgelê.,0.38
+HART 15-0284 is n baie goeie jong bul wat aangebied word.,Hy is n mediumraam bul wat op verse en koeie gebruik kan word.,0.47
+Dit kan ook deur die grondgebied van 'n ander staat verdeel word.,Die woord word gebruik om die Hebreeuse woord vir eer of heerlikheid te vertaal.,0.25
+"Het jy 'n plant, siekte of plaag wat jy wil identifiseer of het jy tuinmaak-advies nodig?",Het jy 'n algemene vraag oor tuinmaak of plant wat jy wil identifiseer?,0.75
+"Wat is nou mooier as n slaai versier met kappertjies, of ysblokkies met gesiggies daarin?","Gebruik dit in slaai, vrugteslaai, gooi dit in n drankie of versier n gereg daarmee.",0.62
+"Indien jou gebruik 'n wenas regverdig, sit hom op.","Indien jou gebruik net mooi paaie is maar swaar vrag, sit 'n dakrak op.",0.69
+"Die Volla se rat kon nie, terwyl die karretjie beweeg, in eerste rat kom nie.","Jonk en selfbewus, word die karretjie eers afgeskakel en die rat in eerste rat ingeskuif.",0.53
+"Dit bevat 'n proteïen wat bekend staan as Papain, wat jou effektief help om proteïene te verwerk.","Wanneer dit in rou vorm gebruik word, bevat papaja 'n stof wat bekend staan as papaïen.",0.66
+"Ek dink dat al wat die ANC wil, is om sy opposisie te toets.","Ons het regtig baie lekker gebly, die kamers is binne en buite baie mooi.",0.22
+Die vergelyking lewer n maksimum korrelasie faktor van 9.8 en n minimum van 3.9.,"Nelson Mandela aan die spits, het die deure van n eens geslote en vyandige wêreld weer geopen.",0.16
+Christian Lealiifano het die strafdoel oorgeklits: 7-3.,Lealiifano het strafskop vroeg in tweede helfte oorgeskop toe Louw by die afbreekpunt oortree het: 16-9.,0.62
+Geur met n bietjie sout en swartpeper.,Smeer die filet met n bietjie olyfolie en geur met sout en peper.,0.78
+Vandag word daar intensiewe navorsing  wat bekend staan as gene-rekombinasie en kloning - oor die hele wêreld gedoen.,By die Australian National University word navorsing gedoen oor 'n ensiem wat manlike spermselle vernietig.,0.38
+"Was dit n eenmalige gebeurtenis, of is dit iets wat jy op n gereelde basis doen?","Heelwat spesiale uitgawes is vrygestel, soos die Malibu Barbie New Beetle.",0.19
+Wat maak jy as daar nie n goeie Afrikaanse skool in jou omgewing is nie?,Hoe was dit vir jou as Afrikaanse kind in n Engelse skool?,0.62
+"Dit was geskryf deur Gideon Brückner, gelees deur François Haasbroek en skets deur Fred Mouton.","Dit was gelees en geskryf deur Jaco Kirsten, en die skets was gedoen deur Fred Mouton.",0.5
+"Vars seisoensvrugte, avokado, groente soos liggies gaargemaakte broccoli of groenboontjies of n kleurvolle slaai is ideaal.",Selfs n paar sonneblom- of pampoenpitte is lekker met eier of in n slaai.,0.56
+Die 10.5 mm bly egter n baie nice lens en een van my favorites.,As ek weer moet koop sal ek egter die 16mm fisheye koop wat n fullframe lens is.,0.59
+Loop en sweef oor die vloer soos n spook op n maanligaand.,Loop haal die hofkonstawel die sak buite en kom ingedril soos n dragonder op parade.,0.5
+"As julle egter saamstem oor die belangrikheid hiervan, stel n plan in plek.","Dit sluit onder andere in n verandering van werk, sodat julle tyd kan skep.",0.38
+Vou dan die regter- onderste kant se punt oor die vulsel om n driehoek te vorm.,Sit die vulsel op n hoek en vou in driehoekies toe soos hiernaas met die filodeeg.,0.75
+"Jonas sê die weermaghoof, General Constantine Chiwenga word deur Mugabe gebruik.",Jonas sê Chiwenga is deur Mugabe geskool omdat n diktator die veiligheidsmagte gebruik om vrees in te boesem.,0.75
+"Op die vliegdek is 'n stoomkatapult, wat gebruik word om die vliegtuie te versnel wanneer hulle opstyg.",Onder die vliegdek is die loodse waar die vliegtuie gestoor word wanneer hulle nie in gebruik is nie.,0.88
+Dit kan ook help indien jy verkies om nie n groot dik baadjie saam te vat nie.,Dit geld ook vir n baadjie indien jy een moet saamvat.,0.5
+"Sulke lammers word lewend gebore, maar kan nie loop of suip nie en vrek binne 'n paar dae.","Hulle gewig neem vinnig toe en hulle word baie vet, maar vrek binne 'n paar weke na geboorte.",0.66
+"U sien, niemand is nog ooit oor die moorde en wreedhede in die ANC-kampe vervolg nie.",Niemand is ook nog ooit vir die onbeskryflik aaklige halssnoer-moorde vervolg nie.,0.62
+Ouers sal dan deur die skoolhoof ingeroep word.,Ouers word ingeroep vir n onderhoud met die skoolhoof / dissiplinêre komitee.,0.81
+"Die suur wat in sekere soorte papier teenwoordig is, sal veroorsaak dat die papier afbreek en bros word.","Dit kan ook veroorsaak dat die foto's wat aan die papier raak, beskadig word.",0.72
+Daar was natuurlik n reuse veldtog teen NASPERS in Suid-Afrika die afgelope jaar of wat.,NASPERS se groot kritici het natuurlik die standpunt gehuldig dat NASPERS n bepaalde politieke agenda het.,0.88
+Gooi klein hoeveelhede van die yswater en suurlemoensap by die meelmengsel in tot n sagte deeg vorm.,"Dis ook lekker saam met die meeste kase, en die blomme maak n heerlike pesto.",0.34
+Dis die maklikste plek om n verskeidenheid Afrikaanse kinderboeke te bekom.,LekkeSlaap het wonderlike opsies vir akkommodasie in Franklin Roosevelt Park.,0.47
+Hulle het ook goed saamgewerk om die liggaam in die water te help.,"In die water, het hulle saamgewerk om die liggaam te help duik en swem en dryf.",0.69
+Wys jou kind hoe om die papier in klein stukkies te skeur.,"Die wat daarvan wil ontslae raak, tel dit maar net weer na n paar weke op.",0.31
+Laste en moeilikhede word met n ander Griekse woord vertaal.,"Veral in die oggende as ek werk toe moet ry, dan skree hy verwoed.",0.22
+Jy kry 55 dae rentevry op dié aankoop.,Jy kry 45 dae rentevry op hierdie aankoop.,0.69
+Tuisonderwys word in die wet omskryf as onderwys by die kind se eie huis.,Laastens sal tot sekere gevolgtrekkings gekom word rakende die huidige en toekomstige literêre status van swart Afrikaanse vroueskrywers.,0.31
+Dit is 'n hoë gehalte produk van 'n betroubare maatskappy en word teen 'n goeie prys aangebied.,"Baie mense glo hul huis is n belegging, dat hulle dit eendag kan verkoop en afskaal.",0.41
+Beslis n regte egte plaaslike prenteboek.,Dis nog beter om dit n regte egte Afrikaanse prenteboek te maak.,0.69
+Watter stad op die kaart is presies op die ewenaar geleë?,Regtens moet enige kansellasiefooi n redelike bedrag wees.,0.22
+"Maar as jy rustigheid soek, is hier ook n matiger bergpaadjie wat oor die rantjie kronkel.",Hier is ook n dam waardeur jy kan ry.,0.5
+Die diagonaal van 'n reghoek is 25 cm meer as die wydte.,Die lengte van 'n reghoek is 2 cm meer as die wydte van die reghoek.,0.56
+"Nee, ek vra nie vir groot luukses vir die armes nie.","Nee, ek vra nie vir groot duur parke in arm woonbuurte nie.",0.72
+Leng Meng Beach Bungalows is geleë naby die middel van die hoofstrand op Koh Rong Samloem (Saracenbaai).,Leng Meng Beach Bungalows word geprys in die middelstreekse kategorie.,0.75
+Jy kan hierdie lekker marmelade ook met n mengsel van sitrusvrugte maak.,Die whisky in die resep sorg vir n lekker nasmaak en help ook met preservering.,0.34
+Die wetenskaplike naam word gewoonlik kursief (skuinsgedruk) geskryf.,Skaaldiere (Crustacea) vorm 'n baie groot groep van die geleedpotiges en word gewoonlik as 'n subfilum hanteer.,0.25
+Hierdie immergroen boom is eintlik n kategorie 3 indringer.,Hierdie boom het oor die algemeen n mooi geronde kroon met n kort hoof-stam.,0.5
+EK WEET nie hoe tienermas cope om n kind groot te maak nie.,Ons kul onsself om te dink alle vroue weet instinktief hoe om babas groot te maak.,0.44
+"Ons O/8-groep speel oorgangs-krieketliga, wat die seuns kans bied om meer blootstelling te kry vir die O/9 skoolliga.","By hierdie liga speel die seuns volgens O/9 krieketvlak reëls, om sodoende die gevoel te kry van skoleligakrieket.",0.75
+Ons leer deur n kombinasie van die drie in n meerdere of mindere mate toe te pas.,Hy verwerk nuwe inligting deur te lees of deur na prente of n demonstrasie te kyk.,0.62
+"Die stutte het elk ook n los voetjie, en dié bêre jy net onder die stutte.",Die stutte se arm pas elk in n vierkantige buis in die romp van die wa.,0.66
+"Die relatiewe lae suiker- en hoë ruproteïeninhoud van lusern bemoeilik die bevredigende inkuiling daarvan (Langer, 1967).","Vakuumtegnieke het die inkuiling van lusern aansienlik verbeter (Langer, 1967).",0.62
+"Verf op hout-elemente kan met veiligheid verwyder word, selfs al het dit n loodbasis.",Dié maklike meringue het n sagte tekstuur binne-in en is perfek met n suurlemoenvulsel en vars bessies.,0.22
+Daarop sê die koning: Hy bring ook 'n goeie boodskap.,"As u belangstel om 'n verspreider te word vir u plaaslike gebied buite Noord-Amerika, kontak asseblief Tekna Indië.",0.19
+"Vir Mandela om Julie 2013 nog te leef, sal volgens ons informasie reeds n groot wonderwerk wees.",Los dit n minuut aan sodat die olie kan intrek. ,0.19
+Die verf kan met n verfstroper of hittepistool verwyder word.,"Onthou om ingemaakte lensies, veral vir n slaai, af te spoel voor dit gebruik word.",0.25
+Oefening en n aktiewe leefstyl is noodsaaklik vir die intoomhouding van gewig.,"As jou dokter aanbeveel dat jy nie oefen nie, kan jy steeds n aktiewe leefstyl hê.",0.56
+Die Engelse vertaling staan bekend as Cook and Enjoy It en is in 1961 deur De Villiers uitgegee.,Onder die veranderinge was 'n afgekorte titel vir die Engelse uitgawe: Cook and Enjoy.,0.88
+Die HOKK is n permanente komitee van die Raad op Hoër Onderwys.,Die AAU is n kontinentwye forum oor hoër onderwys in Afrika en het 215 lede-instellings in 44 Afrika-lande.,0.44
+Daar is n groot verskeidenheid van sulke middels wat die nie-steroïde anti-inflammatoriese middels (NSAI-middels) genoem word.,"Dit is baie doeltreffend, want n groot dosis kan op hierdie manier toegedien word.",0.56
+Inligting word ook benodig oor die verspreiding en algemene bewegings van jong voëls wat pas die nes verlaat het.,Sulke inligting word benodig om die bewaring van hierdie bedreigde voëls te probeer verseker.,0.69
+Kennisgewing van die verhoor moet aan die ouers gestuur word via die leerder of die pos.,In die kennisgewing moet al die leerder se aanklagte aan die ouers uiteengesit word.,0.78
+Stuur foto's en video's onmiddellik met WhatsApp.,Niemand ondersoek of die oorledene gesoek word vir misdaad nie.,0.28
+"Wind suidwes naby kalm in die oggend, wat oorslaan na noord-noordoos in die namiddag.","As daar genoeg voedsel is, word 'n tweede werpsel in Julie of Augustus gebore.",0.28
+"Dit meng maklik in smoothies, sap of water.",Jy sal voel soos 'n plaaslike by elke bestemming wat jy besoek met Sand Pebbles Tours N Travel.,0.2
+"Verder, in sommige gevalle is dit meer betekenisvol om van breukdele van 'n lading te praat.","Ek het eers my .30-06 Remington gebruik om die een te skiet, n plankdwarsskoot van 136m af.",0.47
+Alaric Basson het ook n bronsmedalje in die 50 m-borsslag gewen.,"Die Egiptenare het hier ook n byeenkomsrekord opgestel, met Youssef Elkamash wat in 28.04 gewen het.",0.41
+"Pak die druiwekorrels styf teen mekaar op die deeg, maar los n 5 cm-rand reg rondom oop.",Begin met n paar plante en kyk eers watter floreer op die balkon.,0.41
+"Druk saadjies in die herfs of die lente in klam, komposryke grond.","Saai of plant dié tweejarige in die herfs of lente in goed gedreineerde, komposryke grond.",0.53
+Die opbrengs van die boek word aan maatskaplike dienste in die Suid-Afrikaanse Polisie Diens geskenk.,"Sodra n Teisteringsbevel toegestaan is, is dit bindend vir 5 jaar.",0.28
+"As jy n goeie vriendin of familie naby het, kan julle ook grootmaatvrugte koop en deel.","As jy items wat julle baie gebruik teen afslag koop, kan jy ook n paar rand spaar.",0.47
+"Jy kan ook n probiotikum drink, soos Reuterina Femme®, wat die natuurlike vaginale organismes herstel.",Ek dink nie daar steek veel waarheid in die storie dat natuurlike jogurt ook die natuurlike organismes herstel nie.,0.47
+"Hy was klein gebou, maar rats soos n kampioen.",Dit is n replika van n lewensgrootte beeld wat in die digterstuin by die sentrum staan.,0.22
+Dit bly belangrik dat elke leerder sy/haar skoolloopbaan suksesvol voltooi.,Die leerder moet egter aan minimum assesseringstandaarde voldoen om sy/haar skoolloopbaan suksesvol te voltooi.,0.72
+In haar ander hand klem sy n klein reistassie vas.,Dan word dit terugbetaal oor n tydperk uitgestippel in jou kontrak.,0.28
+Laai die naelkeurwiel hier af en druk dit op n A3-papier uit.,"Johan Myburg vertel meer oor die wenner van die eenmalige alternatiewe Nobelprys, MARYSE CONDE.",0.16
+"Hierdie behandeling, meer as tagtig jaar gelede, is as n triomf vir die mediese wetenskap aangekondig.",Die mediese wetenskap verloor n ware groot navorser.,0.53
+Rol die deeg in n groot reghoek van 15 x 12 cm.,Vorm die twee stukke deeg in balle en rol dit tot die dikte van n pizzabasis uit.,0.38
+"Toe ons om die draai kom, kon ek die waterbokke onder n boom sien staan.",Hierdie boek is gebasseer op die interessante ware verhaal van speurder Piet Byleveld se lewe en loopbaan.,0.19
+"Johan Myburg vertel meer oor die wenner van die eenmalige alternatiewe Nobelprys, Maryse Conde.",Johan Myburg vertel in sy insetsel meer oor die wenner van die Manbookerprys.,0.59
+Deel vir elke leerder n skoon vel papier uit.,Die leerders gebruik elkeen n skoon vel papier en teken n lui 8 op die papier.,0.72
+"Daarom is die proposisie huidig waar, maar nie noodsaaklik nie.","Elke waar proposisie wat korrespondeer met 'n toestand of gebeure in die verlede tyd, is noodsaaklik waar.",0.66
+Dit is duidelik dat die munisipaliteit in n krisis is en nie meer sy verpligtinge kan nakom nie.,"As n mens die woord hefboom noem, dink jy miskien dadelik aan iets soos n koevoet.",0.16
+"Dit word ook, uiteindelik, 'n voorbereiding op die onafwendbare einde van die reis: die dood.","Die 'ander land' word nie net geografies bedoel nie, maar ook die reis na die onbekende.",0.41
+"Die stad het 'n bevolking van 79 185 in 2005 gehad en 'n oppervlakte van 26,14 km².",Ek het jammer vir Sprinkaan gevoel omdat Mier nie vir hom kos wou gee nie.,0.16
+Kies n kontrasterende kleur wat jy sal gebruik om naelkuns mee te skep.,"As jy wit as basis gebruik, maak kolle met n bleek kleur en omgekeerd.",0.66
+"Susan besoek die Hoërskool vir gesiggestremdes, Worcester.","Susan besoek die Laerskool,by die Instituut vir Blindes, Worcester.",0.84
+"Indien jy Port Nolloth besoek en jy benodig akkommodasie, is jy op die regte plek.","Akkommodasie bied gaste 'n keuse tussen kothuise met 'n strandvakansie-atmosfeer in McDougallsbaai, Port Nolloth.",0.72
+Hy word deur die SA Akademie vir Wetenskap en Kuns in 1953 vereer met die Akademieprys vir Vertaalde werk.,As iemand opmerk jy het n groot gat verwys dit na jou struktuur.,0.22
+Teen n baie lae jaarlikse bedrag kan jy n groot verskeidenheid boeke lees.,Gaan snuffel in tweedehandse boekwinkels rond en koop boeke teen n fraksie van die oorspronklike prys.,0.53
+Verse 36  38 handel oor n tyd toe dit moeilik was om te glo.,Weer laai hy die kat en ry so 5km weg en smyt hom uit.,0.12
+Sean het n 42% kans vir oorlewing gehad toe hy daar aangekom het met 57% brandwonde.,"Nou het hy n 99,9% kans op n normale lewe.",0.62
+"Die sesde boek in die gewilde Asterix-reeks, wat groot en klein wereldwyd bekoor.","Die vyfde boek in die gewilde Asterix-reeks, in 'n splinternuwe, sprankelende Afrikaanse gedaante.",0.81
+Dit was vir ons ook baie aangenaam om julle as gaste by ons te kon huisves.,Dit was ook baie aangenaam om julle hier te huisves en ons het julle bedagsaamheid baie waardeer.,0.78
+Die kunstenaar abstraheer uit al sy kennis van 'n landskap of die liggaam van 'n mens die essensiële lyn.,Die lyn wat die gedagte aan 'n landskap of 'n liggaam stel.,0.44
+"Lospassende katpakke met n belt of rek wat die middel beklemtoon, werk vir almal.","As jy dieselfde kleur denim gaan dra, gee die uitrusting skop met n kleurvolle bykomstighede of belt.",0.5
+Dalk is dit maar net hoe n mens voel wanneer jy vir die eerste keer ouma word.,Ek is so opgepof soos net n eerste keer ouma kan wees.,0.91
+"Dié gesigvorm is ook kort en breed, met sagte vol wange en n opmerklike spits ken.","Hiedie Nokia is n staatmaker, en sal nog vir 20 jaar gebruik word.",0.16
+Die gevalle waar die netto lading nie nul is nie word gereeld na verwys as statiese elektrisiteit.,Die simbool Q word gereeld gebruik om die hoeveelheid elektrisiteit of lading aan te toon.,0.72
+Sprinkel kaas bo-oor en bedek dit met nog n vel deeg.,Strooi die res van die kaas bo-oor en besprinkel met n klein bietjie olyfolie.,0.78
+"En toe kom die uitspraak: Op aanklag 1, poging tot moord, kry hy 8 jaar.",U kan n kind se verjaarsdag vir hom spesiaal maak deur n geskenk te borg.,0.19
+"Tydens stap twee word die leesbegripstrategieë toegepas in kleiner groepe, gefasiliteer deur die onderwyser of medeleerders.","Vou die rand in, oor van die druiwekorrels, sodat n kors reg rondom die tert vorm.",0.22
+AfriForum stel n burgerlike mosie van wantroue in president Jacob Zuma bekend.,AfriForum het n beroep op die breë publiek gedoen om die mosie van wantroue te ondersteun.,0.88
+Hulle kan slegs argumenteer dat die utopiese toekomsvisie van die progressiewe beweging in werklikheid n distopie gaan wees.,Die progressiewe beweging se inisiatief word oor n lang termyn agter die skerms voorberei.,0.41
+Nog baie meer kan (en moet) geskryf word oor hierdie saak.,Daardie besef is die saadjie wat in elke (ware) Afrikanerhart geplant moet word.,0.31
+Beweeg liggies heen en weer totdat jy gemaklik die swaard so teen die bottel kan beweeg.,Mandela se visie het in n nagmerrie ontaard en Suid-Afrika is nie meer die wêreld se gunsteling-wonderwerk-land nie.,0.16
+Met ander woorde: Hierdie ligstrale vorm op sulke hoogtes nog geen spesifika nie.,In Hoofstuk 4 word gedigte behandel waarin die digter skryf oor sosiale status van mense.,0.22
+"Ek het reeds twee jaar n verhouding met n ander man, al is ek gelukkig getroud.",Heel moontlik wil hy weens jaloesie keer dat jy gelukkig is in n nuwe verhouding.,0.59
+"Die Bloedvlag word eers in die toekoms gebore, nadat die emmer bloed omval.","Wanneer ons vlag in hierdie bloed gedoop word, sal ons eers 'n Bloedvlag hê.",0.62
+"Woestynkombuis is n huldeblyk aan daardie dae, toe kos nog kós was.","Woestynkombuis is geïnspireer deur n vrou sonder pretensie, n vrou met integriteit.",0.75
+Daar is ook n nasionale vereniging vir skuldbemiddeling (www.ndma.org.za) by wie jy kan aanklop.,"Uit 'n welvaart oogpunt sal verbruikers 'n verhoging in welvaart ervaar, terwyl die welvaart van produsente sal afneem.",0.44
+Hieronder volg n vlugtige opsomming van die land se verlede en die aanloop tot die huidige rampspoedige situasie.,Sy uiters drastiese optrede teen die land se blanke boere het n geleidelike aanloop gehad.,0.41
+My dogtertjie (3) het n baie gesonde eetlus en eet gesonde kos.,Sommige kinders het bloot n gesonde eetlus.,0.72
+"Indien artikels nie aanvaarbaar is nie, sal dit deur admins verwyder word.","Edits wat nie deug nie, word deur iemand anders ge-edit of verwyder.",0.72
+Mülheim an der Ruhr is 'n stad in Noordryn-Wesfale in Duitsland.,In die Griekse vertaling van die Ou Testament word hierdie woord nooit vir laste of probleme gebruik nie.,0.12
+Die Trust sal vooraf bystand gee vir mense uit die gemeenskap wat n aansoek wil indien.,Nuwe of ou inwoners kan n aansoek indien.,0.53
+Hierdie kinders se regte kan weens verskeie redes ook nie eens in n breë familieverband ondervang word nie.,Verder word toegegee dat dit ongewens is om kinders op n groot skaal in inrigtings te versorg.,0.56
+"Omdat lig nie om n voorwerp kan beweeg nie, vorm n skaduwee daaragter.","As n voorwerp egter deursigtig is, beweeg die lig daardeur.",0.91
+"Slegs wanneer die inisiatief voor die skerms sigbaar word, kan die konserwatiewe beweging begin reageer.","Barcodes, aan die ander kant, is maklik om te reproduseer en te herhaal.",0.31
+Christian Lealiifano het die strafdoel oorgeklits: 7-3.,Stel vir jou n nuwe mikpunt en dui dit in die tweede kolom aan.,0.31
+Die boer het dalk n kind(ers) wat die boerdery by hom gaan oorneem.,Verkoop die boer sy plaas aan die kind(ers)?,0.69
+Nou spring hy weer in die pilleboksie rond soos een wat n sukkelbestaan voer.,Hou nou op soos n kind tekere gaan.,0.44
+Ryg n suurlemoenwiggie aan n kebabstokkie gevolg deur n blokkie steak.,Rol n repie calamari op en ryg dit ná die steak aan die stokkie.,0.78
+"Tog gee die Here haar nog n kans met haar derde kind, Set.",Soos die Here ons almal altyd weer nog n kans gee.,0.81
+Op watter twee dae kon meeste van die kinders se plante hul eie voedsel maak?,Plante maak hul eie voedsel in hul blare tydens die fotosintese proses.,0.72
+Na vyf jaar kry ek op eie versoek 'n oorplasing na Port Elizabeth.,As ek reg kan onthou was die mediese klasifikasie van G1 K1 tot G4 K4.,0.16
+Met sulke belangrike onderwerpe moet dit tog baie maklik wees om n goeie toespraak te hou.,"Die kans dat sy staatsrede n goeie een gaan wees, sal maar baie min wees.",0.41
+Die kante van die uitgang word ook 9 duim dik gemaak van omtrent 6 dm.,Sy word ook genomineer vir n SAFTA-toekenning vir Aktrise van die Jaar vir haar rol in hierdie film.,0.06
+Voorts word die oorgang na n oorwegend alfabetiese ordening beskryf.,Benewens suiwer alfabetiese en suiwer tematiese woordeboeke is daar vandag talle woordeboeke met n hibridiese ordening.,0.69
+Wanneer die vlag snags oor die parlement hang moet dit verlig word.,Wanneer die vlag normaal hang moet die wit baan altyd na links wys met die groen veld op regterkant.,0.69
+Herhaal nog twee keer sodat n klein mandjie in die muffinholte vorm.,Herhaal met die res van die filodeeg in die ander holtes sodat nog 8-10 mandjies vorm.,0.59
+"Dit is beskikbaar in laer hoeveelhede, bevat soja en ander onnodige bestanddele en dit is 'n bietjie duurder.","Dit bevat ook 'n baie hoë hoeveelheid vitamien K, en dit sluit onnodige addisionele bestanddele in.",0.38
+"Die metode bestaan daarin dat die wolmonster, onder bensol, teen 'n swart agtergrond besigtig word.","Die skoon wolmonster word dan in die fles met bensol gedompel, en teen die swart agtergrond besigtig.",0.81
+"Leerders mag slegs voor skool, tydens pouse of na skool items in die sluitkassies plaas of daaruit haal.",Laat die bier 'n dag of twee by kamertemperatuur gis voordat dit in die koelkas bewaar word.,0.12
+Ek sal graag n foto stuur as julle dit wil he.,Anzel Ek sal graag jou foto wil opsit  sal vir jou n email stuur.,0.62
+"Altyd versigtig, verbied Da Gama sy manne om hul vaartuie te verlaat.","Want van die 170 manne wat saam met Da Gama uitgevaar het, lewe nog slegs n derde.",0.59
+Berghonde moet teen alle hond verwante siektes ingeënt word en gereeld deur 'n veearts ondersoek word.,Jaghonde moet gereeld ingeënt word en deur 'n veearts ondersoek word ten einde optimale gesondheid te verseker.,0.69
+"Die term antichris kom slegs voor in 1 en 2 Johannes, en beide is geskryf deur dieselfde persoon.","Johannes, wat 1 en 2 Johannes geskryf het, is egter óók die skrywer van Openbaring.",0.81
+"Namate ysberge ouer word, begin n deurmekaarspul van spitse en ander bisarre vorms verskyn.","Dis n positiewe reg, geen negatiewe reg nie.",0.09
+"Kato wil n baba hê, maar daar is nie n spesiale man in haar lewe nie.","Stef Steenkamp, met wie Kato n jarelange platoniese vriendskap het, kom met n plan vorendag.",0.56
+Newton se gevolgtrekking was dat n reënboog op dieselfde manier gevorm word.,"In sekere omstandighede word n dubbele reënboog gevorm, met die kleure in die omgekeerde volgorde.",0.94
+Roer die sous versigtig deur die warm aartappelblokkies net voor opdiening.,"Net voor opskep, roer die laaste room deur.",0.66
+Die keuse van die regte aanlyn sleutelwoord hulpmiddel vir Amazon soek optimalisering is 'n baie uitdagende taak.,"The Toad in the Village is jou beste opsie vir lekker pizza, kroeg-kos of n bier.",0.25
+Die wrak lê 4 680 m diep.,Die wrak lê 5 000 m diep.,0.66
+"Susan het die braile kopie van die eerste penniefluitjie handboek geskenk aan die Intituut vir blindes, Worcester.","Susan besoek die pionierskool vir Blindes se Hoërskool, Worcester.",0.62
+Op elke straathoek is daar een of ander informele markie met n magdom uiteenlopende produkte.,Die prys is nie oordraagbaar nie en kan nie vir n ander prys of kontant geruil word nie.,0.28
+Ons bied 'n wye verskeidenheid van Weskus lodges om van te kies en te keur!,"Net soos met die gemmerbier, plaas 2-3 rosyne in elke bottel en draai die doppe liggies vas.",0.28
+"As jou hele wese vir jou sê jy moet n akteur word, doen dit.","En toe besef ek net dat as ek n akteur is, kan ek al daai goed wees.",0.72
+Sy het n pistool gegryp en op die aanvallers geskiet.,"Annetjie het die kluis oopgesluit, maar n vuurwapen gegryp en verskeie skote op die aanvallers gevuur.",0.69
+Celine Dion is in die vierde plek met die $42 miljoen wat sy verdien het.,Die binneste bal vorm dan n kamertjie met n tonnel na buite waardeur jy inklim.,0.28
+"Die sprokie ruil dan die fopspeen, wat onder die kussing geplaas word, vir 'n geskenk.","Die Paashaas ruil dan die fopspeen vir 'n prettige geskenk, soos die fopspeen.",0.56
+Blootstelling geskied eerder in en deur ons eie taal.,Die insetsel bied jou besigheid televisiebemarking op n ongewone maar effektiewe wyse.,0.28
+Daar is n groot verskeidenheid van sulke middels wat die nie-steroïde anti-inflammatoriese middels (NSAI-middels) genoem word.,Hierdie middels word stadig-werkende anti-rumatoïde middels (SAR-middels) genoem.,0.62
+Die navorsers het n lys opgestel van die top boeke wat mans graag lees.,"Dis romerig, met n ongelooflike rooiwyn-geur.",0.03
+Die jaareindfunksie het n Mexikaanse tema gehad.,My (enigste) Mexikaanse resepteboek het n salsa verde gehad wat lekker gelyk het.,0.5
+Hierdie stutte lyk soos n domkrag met n slinger aan die bokant.,"Soos jy die slinger draai, lig n arm aan die kant van die hoekstut.",0.47
+"Sy pa het hom gegryp en vir n lang tyd, sonder woorde, styf teen hom vasgedruk.","Maar nou dat hierdie seun van pa teruggekom het, reël pa vir hom spesiaal n groot fees.",0.78
+"In die proses van apologie aanteken, word hulle gekonfronteer met In wye verskeidenheid strategieë waaruit hulle kan kies.","In die aanvaarding van hulle oortredings, kies hulle langer strategieë om apologie aan te teken.",0.78
+Elke gesin ontvang twee keer per jaar n Brokkie.,"Ek kry nes enigiemand anders seer, maar ek is met n gelukkige hart gebore.",0.44
+Stap: 6 Spuit ewe veel vulsel met behulp van n spuitsak op elke koeklaag.,"Los n randjie rondom elke laag, anders gaan die vulsel uitpeul wanneer jy die lae opmekaar stapel.",0.66
+Die wenner is Hilda Smits met Die bome reusagtig soos ons was.,"Baie geluk Hilda met jou wenbundel, Die bome reusagtig soos ons was.",0.84
+"Persoonlike kommunikasie met ander, in n groepsituasie en deur die sosiale media, lyk vandag gunstig.",Moenie n oorhaastige boodskap in die sosiale media plaas wat jy later sal berou nie.,0.56
+Ek het nog nooit n hond met soveel emosies gesien soos my ou Boesie nie.,Ou Toffie was n pragtige hond met die oulikste frons op sy voorkop.,0.69
+Dit het egter eers n deel van die eerste foto van Mars se oppervlak na die aarde gestuur.,Vyf jaar later verskuif ek na Port Elizabeth Tegniese Kollege waar ek later 'n aanstelling as Afdelingshoof kry.,0.19
+"As jy met die eerste oogopslag n goeie indruk wil maak, moet jou hare netjies wees.",Moet ook nie skaam wees vir n bietjie kleur nie.,0.41
+"Prik die varkvleis oraloor, plaas dit in n skottel en giet die piekelmengsel oor.",Sit n rak oor en sit die varkvleis op die rak neer.,0.75
+In hierdie Dinsdag se Allegaartjie gesels ons oor beserings aan diens in Jou regte in die werkplek.,"Hy gaan n baie groot leemte laat, want hy is per slot van sake die Somerset Budget.",0.28
+Tsonda is aangekla van die besit van onwettige ammunisie en sy medebeskuldigdes vir die besit van gevaarlike wapens.,Al ooit gedink jy is te jonk om 'n verskil te maak aan jou omgewing ?,0.25
+Daarop sê die koning: Hy bring ook 'n goeie boodskap.,"Toe sê die koning: Hy is 'n goeie man, en hy kom met 'n goeie boodskap.",0.88
+Die (Klassieke) André-Oort Vermoeding het betrekking tot die verspreiding van spesiale punte op Shimura varieteite.,Verkoop die boer sy plaas aan die kind(ers)?,0.25
+"Restaurante bedien dit gewoonlik in die verpakking saam met n lepel, omdat die kaas so loperig is.",Dit beteken jou D4D se GVM massa is +/- 2600 kg x 1.5 = +/- 3900 kg.,0.12
+Dit beteken dat die kind die drie aspekte waaruit ouerlike sorg bestaan van die nie-sorggewende ouer kan eis/vra.,"As jy aanlyn boek, kan jy dophou waar die pakkie trek.",0.25
+Gideon Malherbe het in 1892 n jagekspedisie saam met SJ du Toit na die Zimbabwe-ruïnes onderneem.,"Hulle is in ongeveer 1810 deur Gideon Malherbe se moeder, Leonora Elizabeth du Toit, geskilder.",0.72
+Tandplaak is n taai stof wat aan tande vorm wat nie behoorlik skoongehou word nie.,"Wanneer die kooldidrate afbreek word, vorm n suur wat die emalje geleidelik vernietig.",0.75
+"As n mens dit aanvaar, verstaan jy jouself en ander mense dadelik n bietjie beter.","Maar dan moet jy ook n munisipailteit soos Stad Kaapstad hê, een wat werk.",0.28
+Dit beteken dat 'n vorm by Aristoteles reeds 'n telos [eindpunt] in sigself huisves (entelegie).,Hierdie vorm (eintlikheid) is vir Aristoteles substansie in die volle sin van die woord.,0.59
+"Rol dit tot omtrent 2,5 cm dik uit op n oppervlak waaroor jy liggies meel gesif het.","Wanneer jy ander mense blameer, verloor jy die vermoë om te sien wat werklik aan die gang is.",0.09
+"Die Trust se geldsake word elke jaar deur onafhanklike ouditeurs nagesien, volgens internasionale reëls.",Die Europese Parlement het verlede week 'n ongekende stem teen sanksies teen Hongarye gekry.,0.31
+Die kante word skuins ingesit om te voorkom dat die voer vermors sal word.,"As die kante regop sou wees, sal voer vermors word en die houer ook minder voer hou.",0.81
+Omtrent niks gaan verlore wanneer n volstruis geslag word nie.,Die klein vlerke word uitgesprei wanneer hy ooplê oor die veld met n snelheid van tot 65 km/h.,0.69
+"Gaan lees die Beeld as Maroela dan vir jou so swak is, ek dink hulle doen goeie werk.","Ek dink Maroela Media doen puik werk as jy dit vergelyk met NW24, waarvan Beeld deel is.",0.72
+Ons wil graag elkeen bedank wat n bydrae gelewer het om die fees moontlik te maak.,Sonder borge sal so n fees ook nie moontlik wees nie.,0.75
+Dit kan ook bepaal word deur die tydsduur van 'n bepaalde hoeveelheid gebeurtenisse te neem.,Net soos voorheen word die aantal gebeurtenisse gedeel deur die tydsduur om die frekwensie te bereken.,0.84
+Meng die droë bestanddele met n houtlepel van die kante af in.,"Om n lid te word, moet jy deur n bestaande OTWSA-lid genomineer word.",0.19
+Tydens die besoek word al die Gr 1 leerlinge se vingerafdrukke op n spesiale sertifikaat aangebring.,Hierdie sertifikaat word saam met n foto van die leerling bewaar vir noodgevalle.,0.81
+Hy was alom bekend in die distrik en laat n groot vriendekring agter.,Nelson Mandela was vanjaar die mees gesoekte term op Google in Suid-Afrika en die res van die wêreld.,0.28
+Een van Suid-Afrika se beste skrywers  een met n verstommende verbeelding  is verlede week dood.,Op n sekere vlak deel suksesvolle wetenskaplikes en skrywers n belangrike eienskap  n uitstekende verbeelding.,0.53
+Die Amoer het altyd n belangrike rol gespeel in die betrekkinge tussen Rusland en China.,In 1689 is die Argoenrivier as die grens tussen die lande vasgestel ná n botsing by die Amoer.,0.62
+En ek gee jou geen direkte aanbevelings oor 'n enkele aanlyn sleutelwoord hulpmiddel vir Amazon.,Dis ook n oproep en waarskuwing.,0.16
+Ons bestudeer n koolstofnanobuis in n magneetveld loodreg tot die aksiale rigting.,Hierdie resultaat word openbaar wanneer n bykomende magneetveld parallel tot die as van die koolstofnanobuis toegedien word.,0.78
+Die premier is beveel om n regrukplan in werking te stel sodat die munisipaliteit sy verpligtinge kan nakom.,In die LiG-artikel is daar nog n paar maklike idees en wenke met bessies.,0.16
+Dit was n voorreg om vir besonderse vriendinne dié rol by hul spesiale dae te kon vul.,Dié dag gaan oor die viering van n spesiale bevestiging.,0.5
+"Nee, ek wag maar nog n ruk.","Hoe sterker die lig, hoër die temperatuur en minder die vogtigheid, hoe meer dikwels is water nodig.",0.06
+Ons kan ook die gradiënt aflei uit n skets.,Maar dit is nie nodig om n skets te hê om die gradiënt te bepaal nie.,0.78
+Onthou om die lensies veral vir n slaai af te spoel voor dit gebruik word.,Lensies is n goeie bron van proteïen en gee die slaai n interessante tekstuur.,0.72
+"Wat julle nie besef nie, is dat daar geen meer aktiewe rol is om te bid nie.",Ent alle skape uitgesonderd die lammers teen Sponssiekte.,0.28
+Ilse Salzwedel gesels met hom oor Die vyfde Aspoester.,Ilse Salzwedel gesels met Karen de Wet oor die kortlyste van die UJ-pryse wat pas bekendgemaak is.,0.62
+"Alle paaie lei na Rome, lui die spreekwoord.","Alle paaie lei na Rome, maar net een Weg lei na die koninkryk van die hemele.",0.81
+Hulle hou hulle onskuldig en maak of hulle my nie in my volle waarheid gesien het nie.,Toe hou ek my net so onskuldig en maak of ek nie weet wat hulle gesien het nie.,0.84
+"Daarom kan die plantsoorte, wat hierdie spesifika nodig het, nie meer op sulke hoogtes gedy nie.",Niemand kom tot die Vader behalwe deur Hom nie (Johannes 14:6).,0.16
+"Sodra die ysstroom die see bereik, kalwe die ys weg en word n gletser-ysberg gebore.",Mettertyd is al wat gesien kan word n paar suile wat bo die see uitsteek.,0.53
+"Kook die vleis eers vir n rukkie met asyn, bietjie naeltjies en n paar uie.","Hierdie artikel handel oor die Deense wetenskaplike en digter, Piet Hein.",0.06
+"Afgekoelde, droë, verbrande klere moet nie verwyder word nie aangesien dit infeksie kan veroorsaak.","Alle paaie lei na Rome, lui die spreekwoord.",0.19
+Gebruik n gieter pleks van n tuinslang.,Laat die bier 12 uur lank by kamertemperatuur staan en plaas dit dan in die koelkas.,0.19
+Dis ook n geleentheid vir n rustige eerlike selfondersoek.,"Hy was getroud met Ingegerd, n dogter van Olaf II van Swede.",0.12
+Ek is nog altyd mal oor Wiskunde maar daardie vraestel was n siek grap.,Daarbenewens word dit ook teen 'n goeie prys aangebied.,0.09
+Die Union Castle-gebou en die Maritieme Museum is ook by die Waterfront geleë.,Die Union Castle-gebou spog met die Suid-Afrikaanse Maritieme Museum.,0.97
+Dis nou alles goed en wel as die queen Ierland vir die eerste keer ooit besoek.,Dis ook nog ok as ons eerste besoek ooit aan Dublin met hierdiè besoek saamval.,0.81
+Hopelik het jy n eggenoot wat jou ondersteun in die rigting wat jy jou gesin wil lei.,En hopelik het jy n duidelik visie waarheen en hoe jy jou gesin wil lei.,0.56
+Verplaas die hoenderstukke na n platbord en bedek met foelie om dit warm te hou.,Verplaas die hoender na n diep platbord.,0.59
+Transaksiekoste beloop 90c per kaarttransaksie en n nuwe kaart sal jou slegs R50 uit die sak jaag.,Mense vra dikwels hoe maklik of moeilik is dit om te emigreer?,0.22
+"Ek het toe twee skote gehoor, en drie Bantoes het uit die plafon geklim en is gearresteer.",Na 'n rukkie het ek nog vyf skote gehoor en agt Bantoes het uit die plafon geklim.,0.72
+"Die wewenaar Abel Buitendag se lewe op sy plaas in die Oos-Vrystaat het n stil, onverstoorde gang.","Sy drie dogters smag eintlik na meer warmte en kontak, na n lewe wat gelééf word.",0.44
+In die blaaie van hierdie boek kry n mens raad vir elke denkbare soort situasie.,Dit is n boek waarvoor daar op elke boekrak n plek ingeruim moet word.,0.47
+Langs jou staan iets wat soos n reusagtige ronde bal lyk met n tonnel na binne.,Port Owen Vakansiehuis is aan die oewer van die Bergrivier in 'n sekuriteitskompleks.,0.12
+Ná vier jaar vervang hy die motor met n nuwe een  n nuwer model.,"As jy 3 jaar kan volhou, het jy n verslawing oorwin.",0.19
+"Waar ontkieming oor n periode van weke plaasvind, is die oorsaak waarskynlik sekondêre dormansie.",Die tweede mees gesoekte term op Google in Suid-Afrika was Oscar Pistorius.,0.09
+Dis n immergroen struik of klein boom wat tot 6 m hoog kan groei.,"Van September tot Maart dra die struik pienk, rooi of wit enkelblomme met n ligte geur.",0.44
+"Die hand wat die wieg beweeg het, was n skatryk Indiese familie  die Guptas.",Ek probeer oor jou skryf maar ek vind nie die regte woorde nie.,0.25
+Sprinkel n derde van die neute en kersies oor.,"Daar was natuurlik ander digters wat hulle eie gedigte kon vertaal, of reeds oor vertalings beskik het.",0.31
+"Indien die onderhandelinge goed afloop, sal die firma vir hom n werkspermit reël vir die tydperk.",Gevolglik kan hierdie rasse met aansienlike sukses gedurende enige periode van die jaar gepaar word.,0.31
+Ek het jammer gevoel omdat Sprinkaan Mier so geterg het en so onvriendelik met Mier was.,Ek het jammer vir Sprinkaan gevoel omdat hy koud gekry het en honger was.,0.69
+Maar professor Fossilus het n groot probleem.,"As die man die nageslag self bevrug het, word verwys na 'n biologiese vader.",0.22
+Volg dit op met die tweede ry kolle in n ander kleur as die eerste ry.,"Maak dan kolle met jou kolletjiepen in n ander kleur, soos swart.",0.78
+Vyftien politieke partye en gemeenskapsgroepe het kandidate in die verkiesing verkiesbaar gestel.,Die SAKP het vir die eerste keer nog kandidate teen die ANC in n verkiesing verkiesbaar gestel.,0.59
+"Gedurende die sg struggle, was hy in beheer van die ANC se inligtingsdiens.","Die resultate van die struggle, spreek vanself.",0.47
+"So, jy kan maar gerus n lekker melktert saam met jou kruideniersware in die trollie laai.","Die koord is 5 m lank, wat beteken jy hoef nie teenaan jou voertuig te stort nie.",0.25
+Ryg 7 mm-silwerdraad (te koop by ysterwarewinkels) deur die groente en maak dit om die krans vas.,Ryg nog n draad deur die eiers en maak dit ook vas.,0.47
+"Daar is soms 'n ligte, blouwit band wat vertikaal oor die voorste gedeelte van die lyf strek.","Daarna sluit hy hom by die Suid-Afrikaanse Polisie aan, waar hy n offisier word.",0.41
+"Geen waardevolle, items mag na ure in die sluitkassies gelaat word nie.","Spek is heerlik saam met Franse roosterbrood, maar dit het n hoë sout inhoud.",0.19
+"Nee wat, sy sou net nog n suurstofdief geword het.","Iemand wat altyd sou betoog het, selfs as daar daar net n kakkerlak op haar stoep was.",0.41
+Nou daag ek myself en vir julle uit om oor 26 vroue te skryf.,"Ek skryf oor 26 Kaapse vroue, almal fiktief, wat op verskillende tye in die Kaap gewoon het.",0.62
+Ah Ha Luukse Akkommodasie word gesertifiseer as hoogs aanbevole.,Dit het 74.5% van die subjekte korrek geklassifiseer met 'n sensitiwiteit van 69%.,0.16
+Laat jouself hieroor geld op n manier wat konflik beperk soos met e-posse of deur n bemiddelaar.,"As dit gereeld gebeur, probeer sy dalk vir jou n verslawing wegsteek soos aan drank of dobbel.",0.19
+Dis n gewilde manier van spaar vir n inkomste wanneer jy ophou werk.,Jy kan dit oorweeg om n ekstra inkomste te verdien deur deeltyds te werk.,0.72
+"Gebruik die kans, en maak jou eie geskiedenis op hierdie geskiedkundige dag.",Die kontinentale roete vanaf die handelsentrums in Noord-China word verdeel in die noordelike en die suidelike roete.,0.25
+Dadelik word jy in n doos geplaas.,Dadelik word daar n karikatuur van jou gemaak.,0.81
+Dit is ook onaanvaarbaar as die teks deel van n prentjie of grafika is.,Teks of grafika kan gewoonlik ook nie uit n PDF lêer geëkstraeer word nie.,0.62
+Dit maak dat die songs hulleself maklik laat sing  daar is n tydloosheid aan die woorde.,Dit laat n mens makliker sing.,0.44
+Watter stad op die kaart is presies op die Greenwich-meridiaan geleë?,Afleidings oor die balans tussen Afrikaanse en Engelse titels bly n tameletjie.,0.19
+Amerika stel n koalisie saam teen Isis en begin met lugaanvalle.,"Amerikaans gesteunde, Koerdies geleide magte verslaan Isis in Rakka.",0.78
+Ek is gelukkig dat ek werk veiligheid het maar soos almal moet ek seker maak dat ek dit hou.,In die huidige wêreldwye geldelike situasie moet ons almal gelukkig wees om werk te hê.,0.66
+Sir Rex Harrison (5 Maart 1908  2 Junie 1990) was n Britse verhoog- en rolprentakteur.,Harrison is op 2 Junie 1990 in sy huis in Manhattan dood op die ouderdom van 82.,0.75
+"Iemand wat op dieselfde perseel woon, kan n beëdigde verklaring aflê dat jy ook daar woon.",Hy/sy moet n afskrif van hul ID en bewys van woonadres insluit; dieselfde adres waar jy woon.,0.75
+Op 'n eerste vlak gaan dit oor die algemene verhale wat in die gemeenskap gedeel word.,Op 'n volgende vlak word verhale net binne 'n ruimte van vertroue gedeel.,0.66
+Die meeste soorte melk het 45 - 60 kalorieë en 4.7 - 5.0 gram koolhidrate per 100 ml.,Doen dit vier keer 'n week en jy sal 1200 bykomende kalorieë en 100 gram koolhidrate kry.,0.53
+Daar is 'n aantal natuurlike suur reflux produkte vir die behandeling wat eaily sorg van hierdie probleem.,Hy kan ook beveel 'n natuurlike suur reflux behandeling.,0.81
+Daardie één geweer wat net so n bietjie meer spesiaal is as die ander in die kluis.,"Soms kliek jy en n geweer net, ongeag die kaliber.",0.53
+Nelson Mandela was maar net n mens soos elkeen van ons.,Nelson Mandela was n gewone mens nes elkeen van ons.,0.97
+Skaap sleep vyf swaar stompe oor die sloot.,Skaap sleep die bruin dwarshoute oor die swaar stompe.,0.66
+"Daar word n vlot gebou van 12,5m lank en 2.1 m breed.",Almal se bagasie en die kos vir n week word op hierdie vlot gelaai.,0.59
+Hou jou asem op terwyl iemand anders (nie jy self nie) vir jou tot tien tel.,Blaas uit en laat die ander persoon weer vir jou tot tien tel voordat jy weer asem skep.,0.84
+"Ek sien ook daars n Suid-Afrikaanse Esperanto vereniging, so sterkte aan hulle.","Dalk word die grond nie verkoop nie, maar neem die kind(ers) net die boerdery oor.",0.28
+Unicode is 'n internasionale standaard vir die identifikasie van grafiese tekens en simbole (soortgelyk aan die ASCII-kode).,Die standaard ken 'n nommer aan alle tekens en simbole ('karakters') van alle geskrewe tale toe.,0.78
+Die naaswenner kry vyf nagte se bed-en-ontbyt-verblyf vir twee in die Grand Gaube-oord.,Die bruid in die derde plek ontvang bed-en-ontbyt-verblyf vir vyf nagte vir twee in die Le Morne-oord.,0.59
+Met Ultra Dog Superwoof Adult Beef and Rice sal jy nie Cheeky se dieet hoef aan te vul nie.,Vertrou op Ultra Dog Superwoof vir n volledige en gebalanseerde dieet vir volwasse honde.,0.88
+"Noordbaai (Coral Island) bied eksotiese koraal, kleurvolle visse en onderwater mariene lewe.",Ons kan hierdie kleurvolle koraal en onderwater seelewe deur middel van 'n glasbodem en snorkel (opsioneel) besigtig.,0.53
