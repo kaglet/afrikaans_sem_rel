@@ -93,16 +93,17 @@ if not os.path.exists("translated_eng.csv"):
 else:
     translated_eng_df = pd.read_csv('translated_eng.csv', encoding='utf-8')
 
-# Augment afrikaans dataset with translated english dataset
+# Augment afrikaans dataset with translated english dataset (Final dataset for fine tuning)
 if not os.path.exists("combined_dataset_cleaned.csv"):
     df_combined = pd.concat([afr_df, translated_eng_df], ignore_index=True)
     df_combined.to_csv("combined_dataset.csv", index=False, encoding='utf-8')
 else:
     df_combined = pd.read_csv("combined_dataset.csv", encoding='utf-8')
 
-# TODO: Pre-finetune on English dataset on mBERT/XLM-R/Afro-XLM-R
+# TODO: Pre-finetune on English dataset on mBERT/XLM-R/Afro-XLM-R/Afribert
 # TODO: Save checkpoint
 # TODO: Finetune on combined Afrikaans dataset on mBERT/XLM-R/Afro-XLM-R
 # TODO: Save checkpoint
 # TODO: Create baselines
 # TODO: Evaluate baseline performance and finetuned performance
+# TODO: Perform SHAP or LIME interpretability
