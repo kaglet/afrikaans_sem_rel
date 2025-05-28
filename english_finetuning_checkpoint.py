@@ -77,16 +77,32 @@ for i, chunk in enumerate(sentence2_chunks):
         translated_sent2_chunks.extend(["[ERROR]"] * len(chunk))
 
 if not os.path.exists("translated_eng.csv"):
-    translated_sent1 = [item for sublist in translated_sent1_chunks for item in sublist]
-    translated_sent2 = [item for sublist in translated_sent2_chunks for item in sublist]
+    translated_sent1 = np.array(translated_sent1_chunks)
+    translated_sent2 = np.array(translated_sent2_chunks)
+    
+    translated_sent1 = translated_sent1.flatten()
+    translated_sent2 = translated_sent2.flatten()
 
+    print(len(translated_sent1), len(translated_sent2))
     translated_eng_df = pd.DataFrame({
     'sentence1': translated_sent1,
     'sentence2': translated_sent2
     })
+    translated_eng_df['label'] = english_df_proc['label']
     translated_eng_df.to_csv("translated_eng.csv")
 else:
     translated_eng_df = pd.read_csv('translated_eng.csv')
 
 df_combined = pd.concat([afr_df, translated_eng_df], ignore_index=True)
 df_combined.to_csv("combined_dataset.csv", index=False)
+
+def fix_encoding(text):
+    try:
+        return text.encode('latin1').decode('utf-8')
+    except Exception:
+        return text  # fallback in case it's not broken
+
+df_combined['sentence1'] = df_combined['sentence1'].apply(fix_encoding)
+df_combined['sentence2'] = df_combined['sentence2'].apply(fix_encoding)
+
+df_combined.to_csv("combined_dataset_fix.csv")
