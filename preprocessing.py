@@ -93,6 +93,7 @@ if not os.path.exists("translated_eng.csv"):
 else:
     translated_eng_df = pd.read_csv('translated_eng.csv', encoding='utf-8')
 
+# TODO: Find out where datasets are being combined with the empty field
 # Augment afrikaans dataset with translated english dataset (Final dataset for fine tuning)
 if not os.path.exists("combined_dataset_cleaned.csv"):
     df_combined = pd.concat([afr_df, translated_eng_df], ignore_index=True)
