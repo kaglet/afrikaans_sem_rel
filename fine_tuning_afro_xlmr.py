@@ -9,8 +9,9 @@ import evaluate
 from sklearn.metrics import mean_squared_error, mean_absolute_error
 from scipy.stats import pearsonr
 
-df = pd.read_csv('sem_text_rel_ranked.csv', encoding='utf-8')
+df = pd.read_csv('combined_dataset_cleaned.csv', encoding='ISO-8859-1')
 dataset = Dataset.from_pandas(df)
+print(df.columns)
 print("✅ Loaded dataset")
 
 model_name = "Davlan/afro-xlmr-large"
