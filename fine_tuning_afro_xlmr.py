@@ -26,6 +26,8 @@ print("✅ Tokenization complete")
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 model = AutoModelForSequenceClassification.from_pretrained(model_name, num_labels=1, problem_type="regression").to(device)
 
+print(device)
+
 def compute_metrics(eval_pred):
     predictions, labels = eval_pred
     predictions = predictions.squeeze()
@@ -34,19 +36,19 @@ def compute_metrics(eval_pred):
     pearson = pearsonr(labels, predictions)[0]
     return {"mse": mse, "mae": mae, "pearson": pearson}
 
-def quick_train(model_ckpt):
-    tokenized = tokenized.train_test_split(test_size=0.2, seed=2)
+def quick_train(model_ckpt, tokenized):
+    tokenized  = tokenized.train_test_split(test_size=0.2, seed=2)
     print("✅ Saving tokenized dataset to disk")    
-    tokenized.save_to_disk(f"{model_ckpt}-tokenized")
+    tokenized.save_to_disk("afro-xlmr-final-ft")
     print("✅ Save complete!")  
     train_ds = tokenized["train"].shuffle(seed=2).select(range(300))  # small subset
     eval_ds = tokenized["test"].shuffle(seed=2).select(range(100))
 
     args = TrainingArguments(
-        output_dir=f"{model_ckpt}-quick-ft",
+        output_dir="afro-xlmr-final-ft",
         per_device_train_batch_size=8,
         # per_device_eval_batch_size=16,
-        num_train_epochs=1, #TODO: try 2
+        num_train_epochs=3, #TODO: try 2
         save_strategy="no",
         report_to="none",
         logging_dir="./logs",
@@ -73,48 +75,64 @@ def quick_train(model_ckpt):
     output_dir = "saves"
 
     print("✅ Saving model and metrics to disk")    
-    trainer.save_model(args.output_dir)
-    trainer.save_metrics(args.output_dir)
+    trainer.save_model("checkpoint")
+    # trainer.save_metrics(args.output_dir)
     # tokenizer.save_pretrained(output_dir)
     print("✅ Save complete!")    
 
     return model, tokenizer, results
 
-def full_train(model_ckpt):
-    tokenizer = AutoTokenizer.from_pretrained(model_ckpt)
-    model = AutoModelForSequenceClassification.from_pretrained(
-        model_ckpt, num_labels=1, problem_type="regression"
-    ).to(device)
-
-    tokenized = dataset.map(preprocess, batched=True)
-
-    tokenized = tokenized.train_test_split(test_size=0.2, seed=42)
-    train_ds = tokenized["train"]
-    val_ds = tokenized["test"]
+def full_train(model_ckpt, tokenized):
+    tokenized  = tokenized.train_test_split(test_size=0.2, seed=2)
+    print("✅ Saving tokenized dataset to disk")    
+    tokenized.save_to_disk("afro-xlmr-final-ft")
+    print("✅ Save complete!")  
+    train_ds = tokenized["train"].shuffle(seed=2)
+    eval_ds = tokenized["test"].shuffle(seed=2)
 
     args = TrainingArguments(
-        output_dir=f"{model_ckpt}-final-ft",
-        per_device_train_batch_size=16,
-        num_train_epochs=3,
-        learning_rate=2e-5,
+        output_dir="afro-xlmr-final-ft",
+        per_device_train_batch_size=64,
+        per_device_eval_batch_size=64,
+        num_train_epochs=5, #TODO: try 2
         save_strategy="epoch",
         report_to="none",
-        evaluation_strategy="epoch",
+        logging_dir="./logs",
+        logging_steps=10,  # Show logging every 10 steps
+        logging_strategy="steps",
     )
 
     trainer = Trainer(
         model=model,
-        tokenizer=tokenizer,
         args=args,
         train_dataset=train_ds,
-        eval_dataset=val_ds,
+        eval_dataset=eval_ds,
         compute_metrics=compute_metrics
     )
-    trainer.train()
-    return trainer.evaluate()
 
-model, tokenizer, results = quick_train(model)
-print(results)
+    print("✅ Training started")
+    trainer.train()
+    print("✅ Training finished")
+
+    print("✅ Evaluating by metrics...")
+    results = trainer.evaluate()
+    print("✅ Evaluation by metrics done!")
+
+    output_dir = "saves"
+
+    print("✅ Saving model and metrics to disk")    
+    trainer.save_model("checkpoint")
+    # trainer.save_metrics(args.output_dir)
+    # tokenizer.save_pretrained(output_dir)
+    print("✅ Save complete!")    
+
+    return model, tokenizer, results
+
+# model, tokenizer, results = quick_train(model, tokenized)
+# print(results)
+
+model, tokenizer, results = full_train(model, tokenized)
+
 
 # args = TrainingArguments(
 #     output_dir="./results",
