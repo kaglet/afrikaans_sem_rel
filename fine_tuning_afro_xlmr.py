@@ -9,7 +9,9 @@ import os
 import evaluate
 from sklearn.metrics import mean_squared_error, mean_absolute_error
 from sklearn.model_selection import train_test_split
-from scipy.stats import pearsonr
+from scipy.stats import pearsonr, spearmanr
+
+
 
 # Configuration
 SEED = 42
@@ -36,8 +38,17 @@ tokenizer = AutoTokenizer.from_pretrained(model_name)
 def preprocess(ds):
     return tokenizer(ds["sentence1"], ds["sentence2"], truncation=True, padding="max_length", max_length = 128)
 
-tokenized = dataset.map(preprocess, batched=True)
+train_ds, eval_ds, test_ds = train_test_split(df)
+print("✅ Dataset splitting complete")
+tokenized_train = train_ds.map(preprocess, batched=True)
+tokenized_eval = test_ds.map(preprocess, batched=True)
+tokenized_test = test_ds.map(preprocess, batched=True)
 print("✅ Tokenization complete")
+print("✅ Saving tokenized splits of dataset to disk")    
+tokenized_train.save_to_disk("train_afro-xlmr-final-ft")
+tokenized_eval.save_to_disk("train_afro-xlmr-final-ft")
+tokenized_test.save_to_disk("train_afro-xlmr-final-ft")
+print("✅ Save complete!")  
 
 # Get model 
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
@@ -60,13 +71,14 @@ def set_all_seeds(seed=SEED):
 
 set_all_seeds(SEED)
 
-def compute_metrics(eval_pred):
-    predictions, labels = eval_pred
+def compute_metrics(preds):
+    predictions, labels = preds
     predictions = predictions.squeeze()
     mse = mean_squared_error(labels, predictions)
     mae = mean_absolute_error(labels, predictions)
     pearson = pearsonr(labels, predictions)[0]
-    return {"mse": mse, "mae": mae, "pearson": pearson}
+    spearman = spearmanr(labels, preds)
+    return {"mse": mse, "mae": mae, "pearson": pearson, "spearman": spearman}
 
 def split_dataset(df, train_size=0.7, val_size=0.15, test_size=0.15, seed=SEED):
     # First split: separate train from (val + test)
@@ -89,68 +101,14 @@ def split_dataset(df, train_size=0.7, val_size=0.15, test_size=0.15, seed=SEED):
     return train_df, val_df, test_df
    
 
-def quick_train(model_ckpt, tokenized):
-    tokenized  = tokenized.train_test_split(test_size=0.2, seed=2)
-    print("✅ Saving tokenized dataset to disk")    
-    tokenized.save_to_disk("afro-xlmr-final-ft")
-    print("✅ Save complete!")  
-    train_ds, eval_ds, test_ds = train_test_split(
-        df
-    )
-    train_ds = tokenized["train"].shuffle(seed=2).select(range(300))  # small subset
-    eval_ds = tokenized["test"].shuffle(seed=2).select(range(100))
-
+def full_train(model_ckpt, tokenized_train, tokenized_eval, tokenized_test):
     args = TrainingArguments(
         output_dir="afro-xlmr-final-ft",
-        per_device_train_batch_size=8,
-        # per_device_eval_batch_size=16,
-        num_train_epochs=3, #TODO: try 2
-        save_strategy="no",
-        report_to="none",
-        logging_dir="./logs",
-        logging_steps=10,  # Show logging every 10 steps
-        logging_strategy="steps",
-    )
-
-    trainer = Trainer(
-        model=model,
-        args=args,
-        train_dataset=train_ds,
-        eval_dataset=eval_ds,
-        compute_metrics=compute_metrics
-    )
-
-    print("✅ Training started")
-    trainer.train()
-    print("✅ Training finished")
-
-    print("✅ Evaluating by metrics...")
-    results = trainer.evaluate()
-    print("✅ Evaluation by metrics done!")
-
-    output_dir = "saves"
-
-    print("✅ Saving model and metrics to disk")    
-    trainer.save_model("checkpoint")
-    # trainer.save_metrics(args.output_dir)
-    # tokenizer.save_pretrained(output_dir)
-    print("✅ Save complete!")    
-
-    return model, tokenizer, results
-
-def full_train(model_ckpt, tokenized):
-    tokenized  = tokenized.train_test_split(test_size=0.2, seed=2)
-    print("✅ Saving tokenized dataset to disk")    
-    tokenized.save_to_disk("afro-xlmr-final-ft")
-    print("✅ Save complete!")  
-    train_ds = tokenized["train"].shuffle(seed=2)
-    eval_ds = tokenized["test"].shuffle(seed=2)
-
-    args = TrainingArguments(
-        output_dir="afro-xlmr-final-ft",
-        per_device_train_batch_size=64,
-        per_device_eval_batch_size=64,
-        num_train_epochs=5, #TODO: try 2
+        per_device_train_batch_size=BATCH_SIZE,
+        per_device_eval_batch_size=BATCH_SIZE,
+        learning_rate=LEARNING_RATE,
+        # weight_decay=0.01,
+        num_train_epochs=4, 
         save_strategy="epoch",
         report_to="none",
         logging_dir="./logs",
@@ -161,8 +119,8 @@ def full_train(model_ckpt, tokenized):
     trainer = Trainer(
         model=model,
         args=args,
-        train_dataset=train_ds,
-        eval_dataset=eval_ds,
+        train_dataset=tokenized_train,
+        eval_dataset=tokenized_eval,
         compute_metrics=compute_metrics
     )
 
@@ -184,29 +142,6 @@ def full_train(model_ckpt, tokenized):
 
     return model, tokenizer, results
 
-# model, tokenizer, results = quick_train(model, tokenized)
-# print(results)
-
-model, tokenizer, results = full_train(model, tokenized)
-
-
-# args = TrainingArguments(
-#     output_dir="./results",
-#     evaluation_strategy="epoch",
-#     learning_rate=2e-5,
-#     per_device_train_batch_size=8,
-#     per_device_eval_batch_size=8,
-#     num_train_epochs=3,
-#     weight_decay=0.01,
-#     logging_dir="./logs",
-# )
-
-# trainer = Trainer(
-#     model=model,
-#     args=args,
-#     train_dataset=tokenized_dataset,
-#     eval_dataset=tokenized_dataset,
-#     compute_metrics=compute_metrics,
-# )
-
-# trainer.train()
+model, tokenizer, results = full_train(model, tokenized_train, tokenized_eval, tokenized_test)
+print("Results:")
+print(results)
