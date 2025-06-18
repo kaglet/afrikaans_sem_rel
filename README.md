@@ -78,9 +78,9 @@ All relevant results, including metrics and LIME interpretability images, will b
 | TF-IDF    | 0.1559      | 0.1691       | 0.0841   | 0.2303   |
 | CLS       | 0.1982      | 0.2014       | 0.0668   | 0.2062   |
 
-## Team Members
-Kago Motlhabane
-Nevin Thomas
-Jaimen Govender
-
 LaBSE outperforms other models, showing stronger alignment with human-annotated similarity scores for Afrikaans.
+
+## Team Members
+* Kago Motlhabane
+* Nevin Thomas
+* Jaimen Govender
