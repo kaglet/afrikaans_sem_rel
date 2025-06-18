@@ -1,3 +1,4 @@
+# TFIDF Baseline
 import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split
@@ -8,7 +9,7 @@ from scipy.stats import pearsonr, spearmanr
 
 # Load dataset
 df = pd.read_csv('./combined_dataset_cleaned.csv', encoding='ISO-8859-1')
-df = df.dropna(subset=['sentence1', 'sentence2', 'label'])  
+df = df.dropna(subset=['sentence1', 'sentence2', 'label'])
 
 # Combine sentence pairs into one input string
 df['combined_text'] = df['sentence1'] + ' ' + df['sentence2']
