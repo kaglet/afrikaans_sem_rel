@@ -2,6 +2,27 @@
 
 This project investigates the effectiveness of multilingual pre-trained language models for measuring semantic relatedness in low-resource African languages, with a focus on Afrikaans. We benchmark traditional statistical approaches and embedding-based baselines against fine-tuned transformer models like AfroXLM-R and LaBSE. The study also utilizes interpretability methods, including LIME, to examine model reasoning.
 
+## Run Instructions
+
+1.  **Fork and Clone the Repository:**
+    ```bash
+    git clone https://github.com/your-username/your-repository.git
+    cd your-repository
+    ```
+
+2.  **Run Baselines (Training and Metrics Output):**
+    ```bash
+    python baselines/cls_embeddings_baseline.py
+    python baselines/tfidf_baseline.py
+    ```
+
+3.  **Run Fine-Tuned Models (Training and Metrics Output):**
+    * Open and run the Jupyter notebooks:
+        ```bash
+        jupyter notebook finetune_models/finetuning_afroxlmr.ipynb
+        jupyter notebook finetune_models/finetuning_labse.ipynb
+        ```
+
 ## Problem Statement
 
 * Which multilingual pre-trained language models (AfroXLM-R, LaBSE) achieve the best performance in identifying semantic relatedness in African language texts when fine-tuned using transfer learning?
@@ -43,26 +64,6 @@ The combined dataset is split into 70% for training and 30% for testing using st
 
 LIME (Local Interpretable Model-agnostic Explanations) is used to understand model predictions by highlighting influential words or phrases in the input sentences.
 
-## Run Instructions
-
-1.  **Fork and Clone the Repository:**
-    ```bash
-    git clone https://github.com/your-username/your-repository.git
-    cd your-repository
-    ```
-
-2.  **Run Baselines (Training and Metrics Output):**
-    ```bash
-    python baselines/cls_embeddings_baseline.py
-    python baselines/tfidf_baseline.py
-    ```
-
-3.  **Run Fine-Tuned Models (Training and Metrics Output):**
-    * Open and run the Jupyter notebooks:
-        ```bash
-        jupyter notebook finetune_models/finetuning_afroxlmr.ipynb
-        jupyter notebook finetune_models/finetuning_labse.ipynb
-        ```
 
 ## Results and Interpretability
 
