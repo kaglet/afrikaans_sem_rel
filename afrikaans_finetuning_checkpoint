@@ -1,7 +1,0 @@
-import pandas as pd
-
-afr_df_dev = pd.read_parquet("dev.parquet")
-afr_df_test = pd.read_parquet("test.parquet")
-
-afr_df_dev.to_csv("afr_df_dev.csv", index=False)
-afr_df_test.to_csv("afr_df_test.csv", index=False)

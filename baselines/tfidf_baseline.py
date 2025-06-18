@@ -8,7 +8,7 @@ from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
 from scipy.stats import pearsonr, spearmanr
 
 # Load dataset
-df = pd.read_csv('./combined_dataset_cleaned.csv', encoding='ISO-8859-1')
+df = pd.read_csv('../datasets/combined_dataset_cleaned.csv', encoding='ISO-8859-1')
 df = df.dropna(subset=['sentence1', 'sentence2', 'label'])
 
 # Combine sentence pairs into one input string
@@ -21,7 +21,7 @@ X_train_text, X_test_text, y_train, y_test = train_test_split(
     X, y, test_size=0.2, random_state=42
 )
 
-# TF-IDF: unigrams + bigrams
+# Create TF-IDF of unigrams + bigrams
 vectorizer = TfidfVectorizer(ngram_range=(1, 2))
 X_train = vectorizer.fit_transform(X_train_text)
 X_test = vectorizer.transform(X_test_text)
@@ -30,9 +30,10 @@ X_test = vectorizer.transform(X_test_text)
 reg = LinearRegression()
 reg.fit(X_train, y_train)
 
-# Predict and evaluate
+# Predict
 y_pred = reg.predict(X_test)
 
+# Evaluate model
 mse = mean_squared_error(y_test, y_pred)
 mae = mean_absolute_error(y_test, y_pred)
 pearson_corr, _ = pearsonr(y_test, y_pred)
