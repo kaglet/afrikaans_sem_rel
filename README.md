@@ -10,13 +10,18 @@ This project investigates the effectiveness of multilingual pre-trained language
     cd your-repository
     ```
 
-2.  **Run Baselines (Training and Metrics Output):**
+2. In root directory run 
+```bash
+pip install -r requirements.txt 
+```
+
+3.  **Run Baselines (Training and Metrics Output):**
     ```bash
     python baselines/cls_embeddings_baseline.py
     python baselines/tfidf_baseline.py
     ```
 
-3.  **Run Fine-Tuned Models (Training and Metrics Output):**
+4.  **Run Fine-Tuned Models (Training and Metrics Output):**
     * Open and run the Jupyter notebooks:
         ```bash
         jupyter notebook finetune_models/finetuning_afroxlmr.ipynb
